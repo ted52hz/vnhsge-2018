@@ -9,4 +9,4 @@ mối quan hệ trong dữ liệu điểm thi. Kết quả từ nghiên cứu c�
 hiện trạng giáo dục hiện nay, cũng như sự tồn tại bất bình đẳng giữa các môn thi ảnh hưởng đến xét
 tuyển CĐ, ĐH.
 ### [**Xem chi tiết Report (PDF)**](https://khoaht312.github.io/vnhsge-2018/Report/VNHSGE-2018.pdf)<br>
-### **Dữ liệu**: [Google Drive](https://drive.google.com/drive/folders/19LeDdO2OOZO4CH51vQv3FAUtZ5OzZaMI?usp=sharing)
+**Dữ liệu**: [Google Drive](https://drive.google.com/drive/folders/19LeDdO2OOZO4CH51vQv3FAUtZ5OzZaMI?usp=sharing)
