@@ -1,9 +1,6 @@
 ## Phân tích điểm thi THPT Quốc Gia 2018
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/ff67eec6-312a-43d0-a4e7-eadabf30570c)
-
 **Abstract**
-> Nghiên cứu này tập trung vào việc phân tích dữ liệu điểm thi Trung học Phổ thông Quốc Gia năm
-2018 tại Việt Nam. Dữ liệu được thu thập từ hàng nghìn thí sinh tham gia kỳ thi này và bao gồm
+> Dữ liệu được thu thập từ hàng nghìn thí sinh tham gia kỳ thi này và bao gồm
 thông tin về điểm số từ các môn thi cơ bản như Toán, Văn, Ngoại Ngữ, .... Mục tiêu của nghiên cứu là
 phân tích sâu hơn về phân phối điểm số, điều chỉnh dữ liệu điểm thi sao cho hợp lý hơn. Phân tích
 này sử dụng các phương pháp thống kê và trực quan hóa dữ liệu để trình bày các đặc điểm và các
