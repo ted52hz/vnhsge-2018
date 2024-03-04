@@ -11,5 +11,10 @@ CREATE TEMPORARY TABLE Max_Block_Score AS (
 
     SELECT candidate_id, block_id, score
     FROM RankedScores
-    WHERE score_rank = 1
+    WHERE score_rank = 1 and score > 0
 );
+
+SELECT cb.candidate_id, cb.block_id, cs.subject_id, cs.score as subject_score, cb.score as block_score 
+FROM Max_Block_Score cb
+JOIN block_subject bs on cb.block_id = bs.block_id
+JOIN candidate_subject cs on bs.subject_id = cs.subject_id and cb.candidate_id = cs.candidate_id
