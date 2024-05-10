@@ -1,8 +1,9 @@
 ## Phân tích điểm thi THPT Quốc Gia 2018 | [Canva](https://www.canva.com/design/DAGD9VbJuR0/ebk-Qvz1Xrrlf5eIwAK0BQ/view?utm_content=DAGD9VbJuR0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel#1)
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/da0a9fe1-c4fa-4f8f-859c-6605bbd369fb)
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/7e50efca-9d5b-46d8-9f10-48238e441b24)
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/c95de41e-c6e0-45d7-9ace-098ef9a3a90d)
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/a7c86d36-e3fc-40c6-98bb-41bd4db65bf5)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/15e41a10-55b1-46b4-a7cf-7b5873595c67)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/13b4a910-df1a-45ee-8af6-4cb2db347551)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/54774625-73cf-4ee4-ab53-4f191b648797)
+
+
 
 
 
