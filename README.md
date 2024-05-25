@@ -4,11 +4,8 @@
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/54774625-73cf-4ee4-ab53-4f191b648797)
 
 
-
-
-
 ## Power BI
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/83a6a77d-8e0b-42e4-909b-fbe3da06f298)
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/b8c42c09-61cd-4ab8-8d57-2f5579e5065d)
-
-**Dữ liệu**: [Google Drive](https://drive.google.com/drive/folders/19LeDdO2OOZO4CH51vQv3FAUtZ5OzZaMI?usp=sharing)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/c586e9e6-a147-4e06-abff-3ecdc4400794)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/3525e2f8-a7a1-41f8-847a-9ba8fd408efa)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/a895ef76-10bc-4679-86b4-9c3f7dc2cc09)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/0e09b495-c293-47aa-bead-77ed5371a4d8)
