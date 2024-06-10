@@ -7,8 +7,8 @@ III. KẾT QUẢ PHÂN TÍCH
   2.	Chuẩn đánh giá cho kỳ thi THPT Quốc Gia năm 2018
   3.	Kết quả phân bố điểm thi kỳ thi THPT Quốc Gia năm 2018
 IV. BÀN LUẬN
-  1.	Kỳ thi đúng về mặt cách thức, sai về cách đánh giá
-  2.	Ảnh hưởng của phổ điểm đến năm tiếp theo
+  1.	Kỳ thi đúng về mặt tổ chức, sai về cách đánh giá
+  2.	Tác động của việc đánh giá phổ điểm không chính xác
 BIỂU SỐ LIỆU
   A.	Bảng thống kê điểm thi theo môn thi kỳ thi THPT Quốc gia năm 2018 theo 2 nhóm thí sinh
   B.	Bảng thống kê điểm thi theo khối thi xét tuyển (khối thi có điểm cao nhất của mỗi thí sinh)
