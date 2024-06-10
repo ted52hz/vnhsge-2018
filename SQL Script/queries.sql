@@ -1,16 +1,17 @@
 --1.[vnhsge-2018_zero.csv] Điểm trung bình của các môn có điểm = 0
 SELECT 
     candidate_id, 
-    AVG(case when score != 0 then score end) AS avg_score,
-    SUM(CASE WHEN subject_id = "Toan" AND score = 0 THEN 1 ELSE 0 END) AS Toan_0,
-    SUM(CASE WHEN subject_id = "Van" AND score = 0 THEN 1 ELSE 0 END) AS Van_0,
-    SUM(CASE WHEN subject_id = "Anh" AND score = 0 THEN 1 ELSE 0 END) AS Anh_0,
-    SUM(CASE WHEN subject_id = "Ly" AND score = 0 THEN 1 ELSE 0 END) AS Ly_0,
-    SUM(CASE WHEN subject_id = "Hoa" AND score = 0 THEN 1 ELSE 0 END) AS Hoa_0,
-    SUM(CASE WHEN subject_id = "Sinh" AND score = 0 THEN 1 ELSE 0 END) AS Sinh_0,
-    SUM(CASE WHEN subject_id = "Su" AND score = 0 THEN 1 ELSE 0 END) AS Su_0,
-    SUM(CASE WHEN subject_id = "Dia" AND score = 0 THEN 1 ELSE 0 END) AS Dia_0,
-    SUM(CASE WHEN subject_id = "GDCD" AND score = 0 THEN 1 ELSE 0 END) AS GDCD_0
+    ROUND(COALESCE(NULLIF(AVG(CASE WHEN score != 0 THEN score END), 0), 0), 2) AS avg_score,
+    ROUND(COALESCE(NULLIF(AVG(score), 0), 0), 2) AS avg_score_all,
+    MAX(CASE WHEN subject_id = 'Toan' THEN ROUND(score, 2) ELSE -1 END) AS Toan,
+    MAX(CASE WHEN subject_id = 'Van' THEN ROUND(score, 2) ELSE -1 END) AS Van,
+    MAX(CASE WHEN subject_id = 'Anh' THEN ROUND(score, 2) ELSE -1 END) AS Anh,
+    MAX(CASE WHEN subject_id = 'Ly' THEN ROUND(score, 2) ELSE -1 END) AS Ly,
+    MAX(CASE WHEN subject_id = 'Hoa' THEN ROUND(score, 2) ELSE -1 END) AS Hoa,
+    MAX(CASE WHEN subject_id = 'Sinh' THEN ROUND(score, 2) ELSE -1 END) AS Sinh,
+    MAX(CASE WHEN subject_id = 'Su' THEN ROUND(score, 2) ELSE -1 END) AS Su,
+    MAX(CASE WHEN subject_id = 'Dia' THEN ROUND(score, 2) ELSE -1 END) AS Dia,
+    MAX(CASE WHEN subject_id = 'GDCD' THEN ROUND(score, 2) ELSE -1 END) AS GDCD
 FROM 
     candidate_subject
 GROUP BY 
