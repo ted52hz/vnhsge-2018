@@ -16,6 +16,13 @@ BIỂU SỐ LIỆU
   D.	Bảng thống kê điểm khối thi của nhóm thí sinh xét tuyển theo từng tỉnh thành
   E.	Bảng thống kê điểm thi môn tiếng Anh của kỳ thi THPT Quốc gia năm 2019, kỳ thi tốt nghiệp THPT 2020, 2021 và 2022.
 ```
+
+## Chuẩn đánh giá các môn thi TPHTQG 2018 và so sánh một số sự thay đổi về điểm số 2018 - 2022 | [Xem Report](https://github.com/khoaht312/vnhsge-2018/blob/main/VNHSGE-2018_Percentile_Zscore.pdf)
+```
+I. Chuẩn đánh giá và so sánh độ khó của đề thi THPT Quốc Gia năm 2018 theo bách phân vị P99, P95, P90, P80, P70 (Tương ứng 1%, 5%, 10%, 20%, 30%)
+II. So sánh mức điểm dùng để phân nhóm thí sinh môn tiếng Anh từ mức khá trở lên từ năm 2018 – 2022 theo bách phân vị P99, P95, P90, P80, P70 (Tương ứng 1%, 5%, 10%, 20%, 30%)
+III. So sánh mức điểm dùng để phân nhóm điểm khối thi của thí sinh năm 2018 và năm 2022 theo bách phân vị P99, P95, P90, P80, P70 (Tương ứng 1%, 5%, 10%, 20%, 30%)
+```
 ## Power BI
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/c586e9e6-a147-4e06-abff-3ecdc4400794)
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/3525e2f8-a7a1-41f8-847a-9ba8fd408efa)
