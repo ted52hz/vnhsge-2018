@@ -3,9 +3,14 @@
 I.
 
 **II. Phân bố điểm thi lý tưởng cho kỳ thi THPT Quốc Gia**:<br>
-Dựa trên: 
+
+``Yếu tố khách quan``
 - [x] **Trọng số của bài thi THPT dùng để xét tốt nghiệp**: Giai đoạn 2015 - 2018, bài thi THPT Quốc gia chiếm 50% ``(Từ năm 2019, chiếm 70%)``. Tương đương với mức độ phân hóa giữa việc thi dùng để tốt nghiệp và thi dùng để xét tuyển Cao Đẳng, Đại Học.
-- [x] **Tính chất của bài thi**: Vì thí sinh bắt buộc phải làm hết các câu hỏi của bài thi. Do đó, phân bố điểm thi của nhóm thí sinh có môn thi chỉ dùng để xét tốt nghiệp có xu hướng lệch âm ``(Negative Skewed Distribution)`` và có đỉnh ở điểm phân hóa.
+- [x] **Tính chất của bài thi**:  Phân bố điểm thi của nhóm thí sinh thi để tốt nghiệp tương tự phổ điểm bài thi ``Criterion-Referenced Test (CRT)`` và có đỉnh ở điểm phân hóa (từ nhận biết - thông hiểu sang vận dụng - vận dụng cao). Còn đối với phân bố điểm thi của nhóm thí sinh thi xét tuyển sẽ có dạng hình chuông phân phối chuẩn nằm phía bên phải của thang điểm tương tự phổ điểm bài thi ``Norm-Referenced Test (NRT)``.
+
+``Yếu tố chủ quan``
+- [x] **Khác biệt yêu cầu về điểm số**: Đối với các thí sinh thi tốt nghiệp, điểm số đủ điểm để tốt nghiệp là khác nhau giữa các thí sinh và phần lớn là ở mức dưới trung bình, do đó điểm số của nhóm thí sinh này khó để đại diện đánh giá kết quả học tập THPT. Trường hợp này phổ điểm có xu hướng lệch dương ``(Positive Skewed Distribution)``
+- [x] **Chất lượng giáo dục không đồng đều**: Vì kỳ thi có quy mô toàn Quốc nên số lượng và chất lượng thí sinh cũng sẽ khác nhau ở các khu vực, do sẽ phổ điểm có thể lệch âm ``(Negative Skewed Distribution)``.
 
 a) Mô phỏng phân bố điểm thi sử dụng phân phối nhị thức ``(Binomial Distribution)`` với đề thi trắc nghiệm 40 câu *(Đối với phần tốt nghiệp, từ mức điểm 5.25 trở đi sẽ được cộng thêm xác suất ngẫu nhiên chọn đúng 1/4 đáp án cho 20 câu tiếp theo và sau đó chuẩn hóa lại cho khớp với giả thuyết)*
       
