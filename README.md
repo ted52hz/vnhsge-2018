@@ -18,30 +18,45 @@ b) Trường hợp đề thi chưa chuẩn (phổ điểm của môn thi có d�
 
 **III. Phân tích chi tiết**:<br>
 **Môn Toán**:
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/944ac3b5-ae54-4fe8-a389-09a3dd5e7a8b)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/d26354e0-963a-42c0-8466-2e254b282235)
+
 
 **Môn Ngữ Văn**:
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/4feaee97-b675-44a7-aba8-2ce43619c7c2)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/32ceea05-db1e-4ac5-89a4-cc2e8059a93d)
 
-**Môn tiếng Anh**:
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/8ddd4b40-b660-4ee0-acd2-9571aa820b1a)
+
+**Môn tiếng Anh - 1**:
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/ccb1233d-c211-4fb0-b703-162dbc9e8e6d)
+
+**Môn tiếng Anh - 2**:
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/b851864c-0e3b-43ac-93b6-b83fbad85280)
+
 
 **Môn Vật Lí**:
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/623e777b-6cd6-4af2-822a-3e087b325c0c)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/00046afd-a55f-4ebd-bb52-6ec18ebb4b56)
+
 
 **Môn Hóa Học**:
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/8b8ec4c5-fbc1-4334-b316-acfa29694dd1)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/37777d70-53f2-445b-a3f1-6a70d5b8ddad)
+
 
 **Môn Sinh Học**:
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/b6749ebe-be8d-4f20-9a7e-be3969f3ed6f)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/f80ec967-5b70-476e-85dd-93b2d33c8ed6)
+
 
 **Môn Lịch Sử **:
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/2ff18c8a-78d6-4a5d-95b3-e0f0b1d7f75e)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/499dfd5b-cef2-4a79-b606-b2b151a89229)
+
 
 **Môn Địa Lý**:
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/3b75d601-bc24-4599-925c-c7f1938f6197)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/cbbd143b-af56-49c7-bac6-ec2a77d9737d)
+
 
 **Môn Giáo dục Công Dân**:
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/6aa083c6-e5de-45d8-bfa0-ffed6fc300a4)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/0b87f0c5-4185-456b-9ee3-c1d8ceeaf765)
+
+**Khối thi**:
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/4dcf1ac0-44aa-4b7a-bfa1-73cdbe82c472)
+
 
 
