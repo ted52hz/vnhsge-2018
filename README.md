@@ -1,8 +1,23 @@
 ## Phân tích điểm thi THPT Quốc Gia 2018
 
 I.
+✅
 
-**II. Phân bố điểm thi lý tưởng cho kỳ thi THPT Quốc Gia**:<br>
+II.<br>
+**a) Phương pháp lọc dữ liệu điểm môn thi tốt nghiệp & môn thi xét tuyển**
+- [x] Bước 1: Xác định các khối thi (Tổ hợp các môn thi) phổ biến.
+- [x] Bước 2: Tính và xếp hạng điểm các khối thi của từng thí sinh (Đảm bảo tham gia đầy đủ 3 môn thi).
+- [x] Bước 3: Chọn khối thi có tổng điểm cao nhất là khối thi chính và 3 môn trong khối thi đó là môn thi xét tuyển, các môn còn lại là môn thi tốt nghiệp.
+> [!IMPORTANT]
+> Tránh ``Data Bias``: Theo thống kê, có khoảng 90% thí sinh lựa chọn các tổ hợp A00, A01, B00, C00, D01[^1]. Nếu sử dụng toàn bộ tổ hợp hiện có để xét thì sẽ không đánh giá chính xác và hiệu quả nếu xảy ra đồng thời 2 yếu tố sau:
+> - Có một môn thi nằm trong tổ hợp khối thi mà thí sinh kỳ vọng đạt điểm cao có điểm thi thấp hơn một môn thi khác do yếu tố đề thi.
+> - Tổng điểm của 3 môn thi có khối thi không nằm trong tổ hợp xét tuyển yêu cầu của ngành/nhóm ngành mà thí sinh xác định ban đầu.
+>   
+> Do đó, lựa chọn các khối thi phổ biến giúp đảm bảo giảm được ``Selection Bias``.
+
+b) 
+
+**III. Phân bố điểm thi lý tưởng cho kỳ thi THPT Quốc Gia**:<br>
 
 ``Yếu tố khách quan``
 - [x] **Trọng số của bài thi THPT dùng để xét tốt nghiệp**: Giai đoạn 2015 - 2018, bài thi THPT Quốc gia chiếm 50% ``(Từ năm 2019, chiếm 70%)``. Tương đương với mức độ phân hóa giữa việc thi dùng để tốt nghiệp và thi dùng để xét tuyển Cao Đẳng, Đại Học.
@@ -67,34 +82,18 @@ b) Thí sinh dự thi theo khối
 2. Phân tích chi tiết các môn thi<br>
 **Môn Toán**:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/d26354e0-963a-42c0-8466-2e254b282235)
-> [!NOTE]
-> f
 
 **Môn Ngữ Văn**:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/32ceea05-db1e-4ac5-89a4-cc2e8059a93d)
-> [!NOTE]
-> Điểm thi của cả hai nhóm thí sinh đều lệch sang trái so với phổ điểm kỳ vọng khoảng 1.5-2.0 điểm.
 
-**Môn tiếng Anh - 1**:
+**Môn tiếng Anh**:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/ccb1233d-c211-4fb0-b703-162dbc9e8e6d)
-> [!NOTE]
-> Điểm thi của cả hai nhóm thí sinh đều lệch sang trái so với phổ điểm kỳ vọng khoảng 1.5-2.0 điểm.
-
-
-**Môn tiếng Anh - 2**:
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/b851864c-0e3b-43ac-93b6-b83fbad85280)
-> [!NOTE]
-> Điểm thi của cả hai nhóm thí sinh đều lệch sang trái so với phổ điểm kỳ vọng khoảng 1.5-2.0 điểm.
 
 **Môn Vật Lí**:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/00046afd-a55f-4ebd-bb52-6ec18ebb4b56)
-> [!NOTE]
-> Điểm thi của cả hai nhóm thí sinh đều lệch sang trái so với phổ điểm kỳ vọng khoảng 1.5-2.0 điểm.
 
 **Môn Hóa Học**:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/37777d70-53f2-445b-a3f1-6a70d5b8ddad)
-> [!NOTE]
-> Điểm thi của cả hai nhóm thí sinh đều lệch sang trái so với phổ điểm kỳ vọng khoảng 1.5-2.0 điểm.
 
 **Môn Sinh Học**:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/f80ec967-5b70-476e-85dd-93b2d33c8ed6)
@@ -123,4 +122,5 @@ b) Thí sinh dự thi theo khối
 > Điểm thi của cả hai nhóm thí sinh đều lệch sang trái so với phổ điểm kỳ vọng khoảng 1.5-2.0 điểm.
 
 
+[^1]: My reference.
 
