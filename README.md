@@ -1,8 +1,13 @@
-## Phân tích điểm thi THPT Quốc Gia 2018
+## Title
+**I. Đặt Vấn Đề**<br>
 
-**I. Đặt Vấn Đề**
+Kỳ thi THPT Quốc Gia (2015 – 2019), là một kỳ thi quan trọng đối với học sinh THPT. Mục đích của kỳ thi là xét tốt nghiệp và làm cơ sở để xét tuyển vào các trường Cao đẳng, Đại học. Sau khi kết thúc kỳ thi, Bộ GD&ĐT sẽ công bố điểm thi trên các trang thông tin điện tử để thí sinh và giáo viên có thể đánh giá kết quả. Tuy nhiên, kết quả phân tích phổ điểm thi trong những năm gần đây chưa phản ánh đúng theo mục tiêu của kỳ thi khi lấy kết quả của toàn bộ thí sinh để đánh giá.
 
-II.<br>
+``1. Mỗi thí sinh có mục tiêu về điểm số khác nhau ở từng môn thi ``
+
+``2. Cách tổng hợp điểm thi chưa hợp lý``
+
+**II.**<br>
 1.<br>
 2.<br>
 **a) Phương án lọc dữ liệu điểm môn thi tốt nghiệp & môn thi xét tuyển**
@@ -25,15 +30,16 @@ II.<br>
 - [x] **Khác biệt yêu cầu về điểm số**: Đối với các thí sinh thi tốt nghiệp, điểm số đủ điểm để tốt nghiệp là khác nhau giữa các thí sinh và phần lớn là ở mức dưới trung bình, do đó điểm số của nhóm thí sinh này khó để đại diện đánh giá kết quả học tập THPT. Trường hợp này phổ điểm có xu hướng lệch dương ``(Positive Skewed Distribution)``
 - [x] **Chất lượng giáo dục không đồng đều**: Vì kỳ thi có quy mô toàn Quốc nên số lượng và chất lượng thí sinh cũng sẽ khác nhau ở các khu vực, do sẽ phổ điểm có thể lệch âm ``(Negative Skewed Distribution)``.
 
-a) Mô phỏng phân bố điểm thi sử dụng phân phối nhị thức ``(Binomial Distribution)`` với đề thi trắc nghiệm 40 câu *(Đối với phần tốt nghiệp, từ mức điểm 5.25 trở đi sẽ được cộng thêm xác suất ngẫu nhiên chọn đúng 1/4 đáp án cho 20 câu tiếp theo và sau đó chuẩn hóa lại cho khớp với giả thuyết)*
+a) Mô phỏng phân bố điểm thi sử dụng phân phối nhị thức ``(Binomial Distribution)`` : Với điểm thi tốt nghiệp nằm ở giữa biểu đồ $B(n=40, p= 0.5)$ và điểm thi xét tuyển nằm ở 3/4 biểu đồ $B(n=40, p= 0.75)$.
       
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/b2795328-b071-4084-8b03-66a40d2d2520)
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/5e37d992-8fc8-47a7-85fc-debc0362ce51)
 
-b) Trường hợp đề thi chưa chuẩn (phổ điểm của môn thi có dạng phân phối nhị thức tương tự như khi các thí sinh chọn đáp án ngẫu nhiên):
+
+b) Trường hợp đề thi chưa chuẩn (phổ điểm của môn thi có dạng phân phối nhị thức tương tự như khi các thí sinh chọn đáp án ngẫu nhiên): TN: $B(n=40, p= 0.25)$ và XT: $B(n=20, p= 0.25)$ tịnh tiến qua phải 5 điểm.
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/2c5f0af7-0e58-4852-a9e7-da04c13bd3b2)
 
 **Xác định mục tiêu của các phổ điểm:**
-- [x] **Điểm thi tốt nghiệp**: Đánh giá kết quả phổ điểm với tiêu chuẩn định trước, trong bối cảnh kỳ thi THPT Quốc gia 2018 là 5.0 điểm *(Vì điểm thi các môn chỉ chiếm 50% nên phân bố điểm thi của nhóm điểm này không chính xác với mục tiêu đề ra là đánh giá chất lượng giáo dục do chỉ có điểm liệt và  và áp dụng cho toàn bộ thí sinh)*.
+- [x] **Điểm thi tốt nghiệp**: Nếu xét theo đề thi thì kỳ thi THPT Quốc Gia 2018 có ngưỡng điểm để đánh giá học sinh đạt tiêu chuẩn là 5.0, nhưng vì kỳ thi chỉ chiếm 50% hoặc thấp hơn (+ điểm ưu tiên) nên nhóm điểm này khó để dùng để đánh giá chất lượng do điều kiện đạt điểm trên 5.0 là không bắt buộc.
 - [x] **Điểm thi xét tuyển**:  Đánh giá mức độ phân hóa của đề thi, là phân bố điểm thi chính thức của kỳ thi để phân loại thí sinh, có thể sử dụng để đánh giá chất lượng giáo dục thay thế cho điểm thi tốt nghiệp.
 - [x] **Khối thi xét tuyển**:  Vì là kết quả tổng hợp nên tập trung giá trị Bách Phân vị ``Percentile`` , mục đích là giúp thí sinh so sánh và xếp hạng điểm thi của mình như thế nào so với các thí sinh khác về phần trăm và số lượng. Không dùng để đánh giá do số lượng thí sinh lớn nên hình dạng phổ điểm sẽ có xu hướng tiệm cận phân phối chuẩn.
 
