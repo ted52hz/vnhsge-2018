@@ -1,25 +1,19 @@
 ## Phân tích điểm thi THPT Quốc Gia 2018
 
-I. Đặt Vấn Đề
+**I. Đặt Vấn Đề**
 
 II.<br>
 1.<br>
 2.<br>
 **a) Phương án lọc dữ liệu điểm môn thi tốt nghiệp & môn thi xét tuyển**
 
-- [x] Bước 1: Xác định các khối thi (Tổ hợp các môn thi) phổ biến.
-- [x] Bước 2: Tính và xếp hạng điểm các khối thi của từng thí sinh (Đảm bảo tham gia đầy đủ 3 môn thi).
-- [x] Bước 3: Chọn khối thi có tổng điểm cao nhất là khối thi chính và 3 môn trong khối thi đó là môn thi xét tuyển, các môn còn lại là môn thi tốt nghiệp.
+- [x] **Bước 1**: Xác định các khối thi (Tổ hợp các môn thi) phổ biến.
+- [x] **Bước 2**: Tính và xếp hạng điểm các khối thi của từng thí sinh (Đảm bảo tham gia đầy đủ 3 môn thi).
+- [x] **Bước 3**: Chọn khối thi có tổng điểm cao nhất là khối thi chính và 3 môn trong khối thi đó là môn thi xét tuyển, các môn còn lại là môn thi tốt nghiệp.
 > [!IMPORTANT]
 > Tránh ``Data Bias``: Theo thống kê, có khoảng 90% thí sinh lựa chọn các tổ hợp A00, A01, B00, C00, D01 và chỉ có 10% cho các tổ hợp [^1]. Nếu sử dụng toàn bộ tổ hợp hiện có để xét thì sẽ không đánh giá chính xác và hiệu quả nếu xảy ra đồng thời 2 yếu tố sau:
 > - Có một môn thi nằm trong tổ hợp khối thi mà thí sinh kỳ vọng đạt điểm cao có điểm thi thấp hơn một môn thi khác do yếu tố đề thi.
 > - Tổng điểm của 3 môn thi có khối thi không nằm trong tổ hợp xét tuyển yêu cầu của ngành/nhóm ngành mà thí sinh xác định ban đầu.
-
-**b) Phương pháp đánh giá**
-
-- [x] **Điểm thi tốt nghiệp**: Đánh giá kết quả phổ điểm với tiêu chuẩn định trước, trong bối cảnh kỳ thi THPT Quốc gia 2018 là 5.0 điểm (Tuy nhiên vì điểm thi chỉ chiếm 50% nên phân bố điểm thi của nhóm điểm này không chính xác với mục tiêu đề ra là đánh giá chất lượng giáo dục).
-- [x] **Điểm thi xét tuyển**:  Đánh giá mức độ phân hóa của đề thi, là phân bố điểm thi chính thức của kỳ thi để phân loại thí sinh.
-- [x] **Khối thi xét tuyển**:  Vì là kết quả tổng hợp nên tập trung giá trị Bách Phân vị ``Percentile`` , mục đích là giúp thí sinh so sánh điểm thi của mình như thế nào so với các thí sinh khác.
 
 **III. Phân bố điểm thi lý tưởng cho kỳ thi THPT Quốc Gia**:<br>
 
@@ -36,8 +30,12 @@ a) Mô phỏng phân bố điểm thi sử dụng phân phối nhị thức ``(B
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/b2795328-b071-4084-8b03-66a40d2d2520)
 
 b) Trường hợp đề thi chưa chuẩn (phổ điểm của môn thi có dạng phân phối nhị thức tương tự như khi các thí sinh chọn đáp án ngẫu nhiên):
-
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/2c5f0af7-0e58-4852-a9e7-da04c13bd3b2)
+
+**Xác định mục tiêu của các phổ điểm:**
+- [x] **Điểm thi tốt nghiệp**: Đánh giá kết quả phổ điểm với tiêu chuẩn định trước, trong bối cảnh kỳ thi THPT Quốc gia 2018 là 5.0 điểm *(Vì điểm thi các môn chỉ chiếm 50% nên phân bố điểm thi của nhóm điểm này không chính xác với mục tiêu đề ra là đánh giá chất lượng giáo dục do chỉ có điểm liệt và  và áp dụng cho toàn bộ thí sinh)*.
+- [x] **Điểm thi xét tuyển**:  Đánh giá mức độ phân hóa của đề thi, là phân bố điểm thi chính thức của kỳ thi để phân loại thí sinh, có thể sử dụng để đánh giá chất lượng giáo dục thay thế cho điểm thi tốt nghiệp.
+- [x] **Khối thi xét tuyển**:  Vì là kết quả tổng hợp nên tập trung giá trị Bách Phân vị ``Percentile`` , mục đích là giúp thí sinh so sánh và xếp hạng điểm thi của mình như thế nào so với các thí sinh khác về phần trăm và số lượng. Không dùng để đánh giá do số lượng thí sinh lớn nên hình dạng phổ điểm sẽ có xu hướng tiệm cận phân phối chuẩn.
 
 **III. Phân tích**:<br>
 1. Về số lượng<br>
