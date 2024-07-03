@@ -1,19 +1,19 @@
 ## Phân tích điểm thi THPT Quốc Gia 2018
 
-I.
-✅
+I. Đặt Vấn Đề
 
 II.<br>
-**a) Phương pháp lọc dữ liệu điểm môn thi tốt nghiệp & môn thi xét tuyển**
+1.<br>
+2.<br>
+**a) Phương án lọc dữ liệu điểm môn thi tốt nghiệp & môn thi xét tuyển**
+
 - [x] Bước 1: Xác định các khối thi (Tổ hợp các môn thi) phổ biến.
 - [x] Bước 2: Tính và xếp hạng điểm các khối thi của từng thí sinh (Đảm bảo tham gia đầy đủ 3 môn thi).
 - [x] Bước 3: Chọn khối thi có tổng điểm cao nhất là khối thi chính và 3 môn trong khối thi đó là môn thi xét tuyển, các môn còn lại là môn thi tốt nghiệp.
 > [!IMPORTANT]
-> Tránh ``Data Bias``: Theo thống kê, có khoảng 90% thí sinh lựa chọn các tổ hợp A00, A01, B00, C00, D01[^1]. Nếu sử dụng toàn bộ tổ hợp hiện có để xét thì sẽ không đánh giá chính xác và hiệu quả nếu xảy ra đồng thời 2 yếu tố sau:
+> Tránh ``Data Bias``: Theo thống kê, có khoảng 90% thí sinh lựa chọn các tổ hợp A00, A01, B00, C00, D01 và chỉ có 10% cho các tổ hợp [^1]. Nếu sử dụng toàn bộ tổ hợp hiện có để xét thì sẽ không đánh giá chính xác và hiệu quả nếu xảy ra đồng thời 2 yếu tố sau:
 > - Có một môn thi nằm trong tổ hợp khối thi mà thí sinh kỳ vọng đạt điểm cao có điểm thi thấp hơn một môn thi khác do yếu tố đề thi.
 > - Tổng điểm của 3 môn thi có khối thi không nằm trong tổ hợp xét tuyển yêu cầu của ngành/nhóm ngành mà thí sinh xác định ban đầu.
->   
-> Do đó, lựa chọn các khối thi phổ biến giúp đảm bảo giảm được ``Selection Bias``.
 
 b) 
 
@@ -97,24 +97,15 @@ b) Thí sinh dự thi theo khối
 
 **Môn Sinh Học**:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/f80ec967-5b70-476e-85dd-93b2d33c8ed6)
-> [!NOTE]
-> Điểm thi của cả hai nhóm thí sinh đều lệch sang trái so với phổ điểm kỳ vọng khoảng 1.5-2.0 điểm.
 
 **Môn Lịch Sử **:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/499dfd5b-cef2-4a79-b606-b2b151a89229)
-> [!NOTE]
-> Điểm thi của cả hai nhóm thí sinh đều lệch sang trái so với phổ điểm kỳ vọng khoảng 1.5-2.0 điểm.
 
 **Môn Địa Lý**:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/cbbd143b-af56-49c7-bac6-ec2a77d9737d)
-> [!NOTE]
-> Điểm thi của cả hai nhóm thí sinh đều lệch sang trái so với phổ điểm kỳ vọng khoảng 1.5-2.0 điểm.
 
 **Môn Giáo dục Công Dân**:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/0b87f0c5-4185-456b-9ee3-c1d8ceeaf765)
-> [!NOTE]
-> Điểm thi của cả hai nhóm thí sinh đều lệch sang trái so với phổ điểm kỳ vọng khoảng 1.5-2.0 điểm.
-
 
 **Khối thi**:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/4dcf1ac0-44aa-4b7a-bfa1-73cdbe82c472)
