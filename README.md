@@ -3,9 +3,11 @@
 
 Kỳ thi THPT Quốc Gia (2015 – 2019), là một kỳ thi quan trọng đối với học sinh THPT. Mục đích của kỳ thi là xét tốt nghiệp và làm cơ sở để xét tuyển vào các trường Cao đẳng, Đại học. Sau khi kết thúc kỳ thi, Bộ GD&ĐT sẽ công bố điểm thi trên các trang thông tin điện tử để thí sinh và giáo viên có thể đánh giá kết quả. Tuy nhiên, kết quả phân tích phổ điểm thi trong những năm gần đây chưa phản ánh đúng theo mục tiêu của kỳ thi khi lấy kết quả của toàn bộ thí sinh để đánh giá.
 
-``1. Mỗi thí sinh có mục tiêu về điểm số khác nhau ở từng môn thi ``
+``1. Phổ điểm môn thi: Mỗi thí sinh có mục tiêu về điểm số khác nhau ở từng môn thi ``
+> **Trong kỳ thi THPT Quốc Gia 2018**: Có 879.705 thí sinh dự thi để xét công nhận tốt nghiệp THPT và có 688.466 thí sinh (chiếm 74.3%) dùng kết quả để xét tuyển Cao đẳng, Đại học[^1]. Điều này không đồng nghĩa với việc mỗi môn thi có 74.3% thí sinh dự thi để xét tuyển mà sẽ phân bố khác nhau theo từng môn theo khối thi. Việc sử dụng điểm thi của toàn bộ thí sinh để đánh giá độ khó của đề thi có thể không chính xác, vì độ khó sẽ bị ảnh hưởng bởi tỉ lệ thí sinh thi để xét tốt nghiệp và thi để xét tuyển. Để hiểu rõ hơn về phổ điểm của các môn thi, chúng ta cần phải xem xét phổ điểm của từng nhóm thí sinh riêng biệt.
 
-``2. Cách tổng hợp điểm thi chưa hợp lý``
+
+``2. Phổ điểm khối thi: Cách tổng hợp điểm thi chưa hợp lý``
 
 **II.**<br>
 1.<br>
@@ -16,7 +18,7 @@ Kỳ thi THPT Quốc Gia (2015 – 2019), là một kỳ thi quan trọng đối
 - [x] **Bước 2**: Tính và xếp hạng điểm các khối thi của từng thí sinh (Đảm bảo tham gia đầy đủ 3 môn thi).
 - [x] **Bước 3**: Chọn khối thi có tổng điểm cao nhất là khối thi chính và 3 môn trong khối thi đó là môn thi xét tuyển, các môn còn lại là môn thi tốt nghiệp.
 > [!IMPORTANT]
-> Tránh ``Data Bias``: Theo thống kê, có khoảng 90% thí sinh lựa chọn các tổ hợp A00, A01, B00, C00, D01 và chỉ có 10% cho các tổ hợp [^1]. Nếu sử dụng toàn bộ tổ hợp hiện có để xét thì sẽ không đánh giá chính xác và hiệu quả nếu xảy ra đồng thời 2 yếu tố sau:
+> Tránh ``Data Bias``: Theo thống kê, có khoảng 90% thí sinh lựa chọn các tổ hợp A00, A01, B00, C00, D01 và chỉ có 10% cho các tổ hợp [^2]. Nếu sử dụng toàn bộ tổ hợp hiện có để xét thì sẽ không đánh giá chính xác và hiệu quả nếu xảy ra đồng thời 2 yếu tố sau:
 > - Có một môn thi nằm trong tổ hợp khối thi mà thí sinh kỳ vọng đạt điểm cao có điểm thi thấp hơn một môn thi khác do yếu tố đề thi.
 > - Tổng điểm của 3 môn thi có khối thi không nằm trong tổ hợp xét tuyển yêu cầu của ngành/nhóm ngành mà thí sinh xác định ban đầu.
 
