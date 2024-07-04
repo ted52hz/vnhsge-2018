@@ -58,7 +58,7 @@ b) Trường hợp đề thi chưa chuẩn (phổ điểm của môn thi có d�
 
 |Image|Text|
 |-|-|
-|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/8e439a22-f76f-4036-8dfd-dd57f330f54f" alt="..." width="500" />|a|
+|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/8e439a22-f76f-4036-8dfd-dd57f330f54f" alt="..." width="500" />|**Biểu đồ biểu diễn mối quan hệ và phân bố điểm thi thông qua hai giá trị Range (Khoảng biến thiên điểm số) (trục x) và Average (Điểm trung bình) (trục y) của thí sinh THPT**.<br>abc|
 
 a) Về số lượng<br>
 - Thí sinh dự thi theo môn
