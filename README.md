@@ -61,6 +61,7 @@ Xem chi tiết: ...
 |Image|Text|
 |-|-|
 |<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/8e439a22-f76f-4036-8dfd-dd57f330f54f" alt="..." width="500" />|**Biểu đồ biểu diễn mối quan hệ và phân bố điểm thi thông qua hai giá trị Range (Khoảng biến thiên điểm số) (trục x) và Average (Điểm trung bình) (trục y) của thí sinh THPT**.<br>abc|
+|<img src="https://i.imgur.com/pxpCQJw.png" alt="..." width="600" />|**Biểu đồ biểu diễn mối quan hệ và phân bố điểm thi thông qua hai giá trị Range (Khoảng biến thiên điểm số) (trục x) và Average (Điểm trung bình) (trục y) của thí sinh THPT**.<br>abc|
 
 a) Về số lượng<br>
 - Thí sinh dự thi theo môn
@@ -126,8 +127,6 @@ a) Về số lượng<br>
 
 **Khối thi**:
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/4dcf1ac0-44aa-4b7a-bfa1-73cdbe82c472)
-> [!NOTE]
-> Điểm thi của cả hai nhóm thí sinh đều lệch sang trái so với phổ điểm kỳ vọng khoảng 1.5-2.0 điểm.
 
 
 [^1]: My reference.
