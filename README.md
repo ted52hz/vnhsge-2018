@@ -1,18 +1,20 @@
 ## Title
 **I. Đặt Vấn Đề**<br>
 
-Kỳ thi THPT Quốc Gia (2015 – 2019), là một kỳ thi quan trọng đối với học sinh THPT. Mục đích của kỳ thi là xét tốt nghiệp và làm cơ sở để xét tuyển vào các trường Cao đẳng, Đại học. Sau khi kết thúc kỳ thi, Bộ GD&ĐT sẽ công bố điểm thi trên các trang thông tin điện tử để thí sinh và giáo viên có thể đánh giá kết quả. Tuy nhiên, kết quả phân tích phổ điểm thi trong những năm gần đây chưa phản ánh đúng theo mục tiêu của kỳ thi khi lấy kết quả của toàn bộ thí sinh để đánh giá.
+Kỳ thi THPT Quốc Gia (2015 – 2019), là một kỳ thi quan trọng đối với học sinh THPT. Mục đích của kỳ thi là xét tốt nghiệp và làm cơ sở để xét tuyển vào các trường Cao đẳng, Đại học. Sau khi kết thúc kỳ thi, Bộ GD&ĐT sẽ công bố điểm thi trên các trang thông tin điện tử để thí sinh và giáo viên có thể đánh giá kết quả. Tuy nhiên, kết quả phân tích phổ điểm thi trong những năm gần đây chưa phản ánh đúng theo mục tiêu của kỳ thi khi lấy kết quả của toàn bộ thí sinh để đánh giá:
 
 ``1. Phổ điểm môn thi: Mỗi thí sinh có mục tiêu về điểm số khác nhau ở từng môn thi ``
 > **Trong kỳ thi THPT Quốc Gia 2018**: Có 879.705 thí sinh dự thi để xét công nhận tốt nghiệp THPT và có 688.466 thí sinh (chiếm 74.3%) dùng kết quả để xét tuyển Cao đẳng, Đại học[^1]. Điều này không đồng nghĩa với việc mỗi môn thi có 74.3% thí sinh dự thi để xét tuyển mà sẽ phân bố khác nhau theo từng môn theo khối thi. Việc sử dụng điểm thi của toàn bộ thí sinh để đánh giá độ khó của đề thi có thể không chính xác, vì độ khó sẽ bị ảnh hưởng bởi tỉ lệ thí sinh thi để xét tốt nghiệp và thi để xét tuyển. Để hiểu rõ hơn về phổ điểm của các môn thi, chúng ta cần phải xem xét phổ điểm của từng nhóm thí sinh riêng biệt.
 
 
 ``2. Phổ điểm khối thi: Cách tổng hợp điểm thi chưa hợp lý``
+> Với việc bắt buộc tham dự tối thiểu 6 môn thi thì mỗi thí sinh sẽ hình thành nhiều tổ hợp môn thi khác nhau, thí sinh có xu hướng chọn tổ hợp môn thi có điểm cao nhất để xét tuyển *(Điểm trúng tuyển giữa các tổ hợp xét tuyển trong cùng 1 ngành là bằng nhau)*, do đó điểm khối thi khác sẽ không được sử dụng (hay không có giá trị thống kê). Tương tự với phổ điểm môn thi, phổ điểm khối thi cũng đang tồn tại hai nhóm điểm, gây khó khăn trong việc xác định chính xác số lượng thí sinh sử dụng điểm khối thi và có thể dẫn đến nhận định sai về điểm số.
 
-**II.**<br>
-1.<br>
-2.<br>
-**a) Phương án lọc dữ liệu điểm môn thi tốt nghiệp & môn thi xét tuyển**
+Từ những nguyên nhân trên, bài viết này sẽ tập trung vào việc đề xuất phương pháp phân tích phổ điểm một cách chính xác hơn theo từng nhóm điểm thi thông qua việc lọc điểm thi.
+
+**II. Tổng quan về dữ liệu**<br>
+
+**1. Phương án lọc dữ liệu điểm môn thi tốt nghiệp & môn thi xét tuyển**
 
 - [x] **Bước 1**: Xác định các khối thi (Tổ hợp các môn thi) phổ biến.
 - [x] **Bước 2**: Tính và xếp hạng điểm các khối thi của từng thí sinh (Đảm bảo tham gia đầy đủ 3 môn thi).
@@ -21,6 +23,10 @@ Kỳ thi THPT Quốc Gia (2015 – 2019), là một kỳ thi quan trọng đối
 > Tránh ``Data Bias``: Theo thống kê, có khoảng 90% thí sinh lựa chọn các tổ hợp A00, A01, B00, C00, D01 và chỉ có 10% cho các tổ hợp [^2]. Nếu sử dụng toàn bộ tổ hợp hiện có để xét thì sẽ không đánh giá chính xác và hiệu quả nếu xảy ra đồng thời 2 yếu tố sau:
 > - Có một môn thi nằm trong tổ hợp khối thi mà thí sinh kỳ vọng đạt điểm cao có điểm thi thấp hơn một môn thi khác do yếu tố đề thi.
 > - Tổng điểm của 3 môn thi có khối thi không nằm trong tổ hợp xét tuyển yêu cầu của ngành/nhóm ngành mà thí sinh xác định ban đầu.
+
+**2. Thu thập và xử lý dữ liệu**<br>
+```
+```
 
 **III. Phân bố điểm thi lý tưởng cho kỳ thi THPT Quốc Gia**:<br>
 
@@ -46,8 +52,11 @@ b) Trường hợp đề thi chưa chuẩn (phổ điểm của môn thi có d�
 - [x] **Khối thi xét tuyển**:  Vì là kết quả tổng hợp nên tập trung giá trị Bách Phân vị ``Percentile`` , mục đích là giúp thí sinh so sánh và xếp hạng điểm thi của mình như thế nào so với các thí sinh khác về phần trăm và số lượng. Không dùng để đánh giá do số lượng thí sinh lớn nên hình dạng phổ điểm sẽ có xu hướng tiệm cận phân phối chuẩn.
 
 **III. Phân tích**:<br>
-1. Về số lượng<br>
-a) Thí sinh dự thi theo môn
+
+**1. Đánh giá chung về kết quả thi THPT Quốc Gia 2018**
+
+a). Về số lượng<br>
+- Thí sinh dự thi theo môn
 
 |STT|Môn thi|Tổng số thí sinh|Thi để tốt nghiệp|%|Thi để xét tuyển|%|Khối|
 |-|-|-|-|-|-|-|-|
@@ -63,7 +72,8 @@ a) Thí sinh dự thi theo môn
 > [!NOTE]
 > Môn ``Tiếng Anh`` và ``Sinh Học`` là các môn có tỉ lệ thí sinh lựa chọn để xét tuyển Đại học thấp, do đó đây là môn sẽ có phân phối điểm thi khác biệt rõ nhất khi tách 2 phần điểm. Môn ``Lịch Sử`` và ``Địa Lý`` do chỉ có một khối thi duy nhất nên sẽ không có khác biệt nhiều so với phổ điểm gốc (toàn bộ thí sinh).
 
-b) Thí sinh dự thi theo khối
+- Thí sinh dự thi theo khối
+  
 |STT|Khối|Tổng số thí sinh có hình thành điểm|Là khối thi có điểm cao nhất|%|% of Total|
 |-|-|-|-|-|-|
 |1|A00|382694|133927|35|15|
@@ -87,6 +97,9 @@ b) Thí sinh dự thi theo khối
 
 > [!IMPORTANT]
 > Các môn ``Lịch Sử``, ``Địa Lý`` và ``khối C00`` sẽ không được phân tích chính xác do không thể xác định số lượng thí sinh thực tế sử dụng điểm thi các môn và khối thi này để xét tuyển.
+
+**b) Về phân bố điểm số chung**
+- a
 
 2. Phân tích chi tiết các môn thi<br>
 **Môn Toán**:
@@ -123,4 +136,4 @@ b) Thí sinh dự thi theo khối
 
 
 [^1]: My reference.
-
+[^2]: My reference.
