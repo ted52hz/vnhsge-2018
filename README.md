@@ -40,13 +40,13 @@ Xem chi tiết: ...
 - [x] **Khác biệt yêu cầu về điểm số**: Đối với các thí sinh thi tốt nghiệp, điểm số đủ điểm để tốt nghiệp là khác nhau giữa các thí sinh và phần lớn là ở mức dưới trung bình, trường hợp này phổ điểm có xu hướng lệch dương ``(Positive Skewed Distribution)``
 - [x] **Chất lượng giáo dục không đồng đều**: Vì kỳ thi có quy mô toàn Quốc nên số lượng và chất lượng thí sinh cũng sẽ khác nhau ở các khu vực, do sẽ phổ điểm có thể lệch âm ``(Negative Skewed Distribution)``.
 
-`` Tránh nhầm lẫn với phổ điểm phân hóa và phổ điểm chưa chuẩn``: Đối với kiểu bài thi NRT thì đề thi có yêu cầu về phân loại thí sinh cao nên độ khó của đề thi có thể điều chỉnh để phù hợp với yêu cầu phân loại thí sinh theo các mức độ khác nhau, tuy nhiên vì đề thi có kết hợp thêm nội dung cơ bản nên độ khó vẫn cần được đánh giá một cách cẩn thận để đảm bảo tính công bằng và phù hợp của bài thi. Trong trường hợp bài thi THPT Quốc Gia 2018 thì bắt buộc phổ điểm của thí sinh tham dự để xét tuyển thì phổ điểm phải có xu hướng tách biệt với nhóm thí sinh tốt nghiệp ``(Q3 [Tứ phân vị thứ 3] của điểm thi tốt nghiệp < Q1 [Tứ phân vị thứ 1] của điểm thi xét tuyển)``.
+`` Tránh nhầm lẫn với phổ điểm có tính phân hóa và phổ điểm chưa chuẩn``: Đối với kiểu bài thi NRT thì đề thi có yêu cầu về phân loại thí sinh cao nên độ khó của đề thi có thể điều chỉnh để phù hợp với yêu cầu phân loại thí sinh theo các mức độ khác nhau, tuy nhiên vì đề thi có kết hợp thêm nội dung cơ bản nên độ khó vẫn cần được đánh giá một cách cẩn thận để đảm bảo tính công bằng và phù hợp của bài thi. Trong trường hợp bài thi THPT Quốc Gia 2018 thì bắt buộc phổ điểm của thí sinh tham dự để xét tuyển thì phổ điểm phải có xu hướng tách biệt với nhóm thí sinh tốt nghiệp ``(Q3 [Tứ phân vị thứ 3] của điểm thi tốt nghiệp < Q1 [Tứ phân vị thứ 1] của điểm thi xét tuyển)``.
 
 -  Mô phỏng phân bố điểm thi sử dụng phân phối nhị thức ``(Binomial Distribution)`` : Với điểm thi tốt nghiệp nằm ở giữa biểu đồ $B(n=40, p= 0.5)$ và điểm thi xét tuyển nằm ở 3/4 biểu đồ $B(n=40, p= 0.75)$.
       
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/5e37d992-8fc8-47a7-85fc-debc0362ce51)
 
-- Trường hợp đề thi chưa chuẩn (phổ điểm của môn thi có dạng phân phối nhị thức tương tự như khi các thí sinh chọn đáp án ngẫu nhiên): TN: $B(n=40, p= 0.25)$ và XT: $B(n=20, p= 0.25)$ tịnh tiến qua phải 5 điểm.
+- Mô phỏng trường hợp đề thi chưa chuẩn cho 2 nhóm điểm thi (phổ điểm của môn thi có dạng phân phối nhị thức tương tự như khi các thí sinh chọn đáp án ngẫu nhiên): TN: $B(n=40, p= 0.25)$ và XT: $B(n=20, p= 0.25)$ tịnh tiến qua phải 5 điểm.
   
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/2c5f0af7-0e58-4852-a9e7-da04c13bd3b2)
 
@@ -151,6 +151,9 @@ Kết luận:
 
 
 ### 4. Phân tích điểm môn thi và khối thi theo khu vực
+
+### 5. Các bất thường về điểm số
+
 
 [^1]: My reference.
 [^2]: My reference.
