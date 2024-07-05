@@ -1,5 +1,5 @@
 ## Phân tích điểm thi THPT Quốc Gia 2018 [(PDF - Version 1)](https://drive.google.com/file/d/1zVducPKTKcAlzRRZjYIvEetwaDionNvT/view)
-
+> 07/2018 - 07/2024
 ## I. Đặt Vấn Đề
 
 Kỳ thi THPT Quốc Gia (2015 – 2019), là một kỳ thi quan trọng đối với học sinh THPT. Mục đích của kỳ thi là xét tốt nghiệp và làm cơ sở để xét tuyển vào các trường Cao đẳng, Đại học. Sau khi kết thúc kỳ thi, Bộ GD&ĐT sẽ công bố điểm thi trên các trang thông tin điện tử để thí sinh và giáo viên có thể đánh giá kết quả. Tuy nhiên, kết quả phân tích phổ điểm thi trong những năm gần đây chưa phản ánh đúng theo mục tiêu của kỳ thi khi lấy kết quả của toàn bộ thí sinh để đánh giá:
@@ -40,7 +40,7 @@ Xem chi tiết: ...
 - [x] **Khác biệt yêu cầu về điểm số**: Đối với các thí sinh thi tốt nghiệp, điểm số đủ điểm để tốt nghiệp là khác nhau giữa các thí sinh và phần lớn là ở mức dưới trung bình, trường hợp này phổ điểm có xu hướng lệch dương ``(Positive Skewed Distribution)``
 - [x] **Chất lượng giáo dục không đồng đều**: Vì kỳ thi có quy mô toàn Quốc nên số lượng và chất lượng thí sinh cũng sẽ khác nhau ở các khu vực, do sẽ phổ điểm có thể lệch âm ``(Negative Skewed Distribution)``.
 
-`` Tránh nhầm lẫn với phổ điểm phân hóa và phổ điểm chưa chuẩn``: Đối với kiểu bài thi NRT thì đề thi có yêu cầu về phân loại thí sinh cao nên độ khó của đề thi có thể điều chỉnh để phù hợp với yêu cầu phân loại thí sinh theo các mức độ khác nhau, tuy nhiên vì đề thi có kết hợp thêm nội dung cơ bản nên độ khó vẫn cần được đánh giá một cách cẩn thận để đảm bảo tính công bằng và phù hợp của bài thi. Trong trường hợp bài thi THPT Quốc Gia 2018 thì bắt buộc phổ điểm của thí sinh tham dự để xét tuyển thì phổ điểm phải có xu hướng tách biệt với nhóm thí sinh tốt nghiệp ``(Q3 [Tứ phân vị thứ 3] của điểm thi tốt nghiệp = Q1 [Tứ phân vị thứ 1] của điểm thi xét tuyển)``.
+`` Tránh nhầm lẫn với phổ điểm phân hóa và phổ điểm chưa chuẩn``: Đối với kiểu bài thi NRT thì đề thi có yêu cầu về phân loại thí sinh cao nên độ khó của đề thi có thể điều chỉnh để phù hợp với yêu cầu phân loại thí sinh theo các mức độ khác nhau, tuy nhiên vì đề thi có kết hợp thêm nội dung cơ bản nên độ khó vẫn cần được đánh giá một cách cẩn thận để đảm bảo tính công bằng và phù hợp của bài thi. Trong trường hợp bài thi THPT Quốc Gia 2018 thì bắt buộc phổ điểm của thí sinh tham dự để xét tuyển thì phổ điểm phải có xu hướng tách biệt với nhóm thí sinh tốt nghiệp ``(Q3 [Tứ phân vị thứ 3] của điểm thi tốt nghiệp < Q1 [Tứ phân vị thứ 1] của điểm thi xét tuyển)``.
 
 -  Mô phỏng phân bố điểm thi sử dụng phân phối nhị thức ``(Binomial Distribution)`` : Với điểm thi tốt nghiệp nằm ở giữa biểu đồ $B(n=40, p= 0.5)$ và điểm thi xét tuyển nằm ở 3/4 biểu đồ $B(n=40, p= 0.75)$.
       
@@ -106,7 +106,7 @@ b) Về số lượng thí sinh dự thi theo khối thi
 
 > [!NOTE]
 > Đối chiếu giữa số lượng thí sinh (mỗi thí sinh/ một khối thi) và số lượng nguyên vọng. Khối C00 có số lượng thí sinh thi để xét tuyển cao hơn so với thực tế 
-≥ 143,000 thí sinh (Tổng số nguyện vọng/Tổng số thí sinh có điểm khối C00 cao nhất < 1).
+≥ 143,000 thí sinh ([Tổng số nguyện vọng/Tổng số thí sinh có điểm khối C00 cao nhất] < 1).
 
 > [!IMPORTANT]
 > Đối chiếu từ dữ liệu có sẵn là số nguyện vọng theo khối thi, các môn ``Lịch Sử``, ``Địa Lý`` và ``khối C00`` sẽ không được phân tích chính xác do không thể xác định số lượng thí sinh thực tế sử dụng điểm thi các môn và khối thi này để xét tuyển, nguyên nhân là do tỉ lệ thí sinh tham dự tổ hợp KHXH cao và thí sinh chỉ thi tốt nghiệp có xu hướng chọn tổ hợp môn này.
@@ -118,21 +118,23 @@ Kết luận:
 
 - Tóm lại, việc phân nhóm thí sinh dựa trên mục tiêu và khối thi giúp cung cấp cái nhìn chính xác hơn về phân bố điểm thi và độ khó của đề thi. Điều này sẽ hỗ trợ tốt hơn trong việc cải thiện quy trình dạy và học, và điều chỉnh các tiêu chí đánh giá sao cho phù hợp và công bằng hơn.
 
-**b) Về phân bố điểm số chung**
-- a
-
-### 2. Phân tích chi tiết điểm môn thi
+### 3. Phân tích chi tiết điểm môn thi (Điểm thi của nhóm thí sinh xét tuyển)
 |Cat|Plot|Description|
 |-|-|-|
-|Toán|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/d26354e0-963a-42c0-8466-2e254b282235" alt="..." width="500" />|a|
-|Ngữ Văn|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/32ceea05-db1e-4ac5-89a4-cc2e8059a93d" alt="..." width="500" />|a|
-|Tiếng Anh|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/ccb1233d-c211-4fb0-b703-162dbc9e8e6d" alt="..." width="500" />|a|
-|Vật Lí|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/00046afd-a55f-4ebd-bb52-6ec18ebb4b56" alt="..." width="500" />|a|
-|Hóa Học|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/37777d70-53f2-445b-a3f1-6a70d5b8ddad" alt="..." width="500" />|a|
-|Sinh Học|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/f80ec967-5b70-476e-85dd-93b2d33c8ed65" alt="..." width="500" />|a|
-|Lịch Sử|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/499dfd5b-cef2-4a79-b606-b2b151a89229" alt="..." width="500" />|a|
-|Địa Lý|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/cbbd143b-af56-49c7-bac6-ec2a77d9737d" alt="..." width="500" />|a|
-|Giáo dục Công Dân|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/0b87f0c5-4185-456b-9ee3-c1d8ceeaf765" alt="..." width="500" />|a|
+|Toán|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/d26354e0-963a-42c0-8466-2e254b282235" alt="..." width="800" />|Điểm thi của nhóm thí sinh xét tuyển thấp có xu hướng thấp, chưa đạt mức phân hóa (Q3 điểm thi tốt nghiệp = 4.8, Q1 điểm thi xét tuyển = 5.0), chỉ có 2.34% thí sinh đạt mức điểm ≥ 8.0. Đề thi chỉ mới phân loại được nhóm thí sinh xuất sắc và giỏi, chưa phân loại được nhóm thí sinh khá và trung bình khá.|
+|Ngữ Văn|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/32ceea05-db1e-4ac5-89a4-cc2e8059a93d" alt="..." width="500" />|Là môn tự luận và đặc thù toàn bộ thí sinh phải thi nên phổ điểm của cả 2 nhóm có xu hướng tập trung ở mức 5 - 6 điểm, ở mức điểm 7 trở lên, nhóm thí sinh thi xét tuyển nhiều hơn. |
+|Tiếng Anh|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/ccb1233d-c211-4fb0-b703-162dbc9e8e6d" alt="..." width="500" />|Phổ điểm trải rộng không hình thành rõ ràng đỉnh phổ điểm và điểm số lượng thí sinh đạt từng mức điểm chỉ chênh lệch trước và sau ~0.15%, chưa đủ dữ kiện để xác định mức điểm phân hóa. Số lượng thí sinh đạt điểm cao nhiều (~8% thí sinh đạt ≥ 8.0) và điểm thấp cũng nhiều (52.4% thí sinh đạt điểm < 5).|
+|Vật Lí|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/00046afd-a55f-4ebd-bb52-6ec18ebb4b56" alt="..." width="500" />|Môn Lý có phổ điểm khá giống với môn Toán nhưng xét về mức phân hóa thì tốt hơn ở nhóm điểm 7 - 8 (chênh lệch giữa các mức điểm là ~0.5% và có lượng thí sinh phủ được mức điểm 9 trở lên [Đề thi không quá khó]).|
+|Hóa Học|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/37777d70-53f2-445b-a3f1-6a70d5b8ddad" alt="..." width="500" />|Nếu không tính ngưỡng đảm bảo chất lượng đề thi là mức 5.0 thì phổ điểm phân hóa tốt, phổ điểm tương tự môn Lý nhưng lệch sang trái khoảng 0.5 điểm. |
+|Sinh Học|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/f80ec967-5b70-476e-85dd-93b2d33c8ed65" alt="..." width="500" />|Tương tự như môn Hóa, đỉnh phổ điểm thấp so với kỳ vọng, mức độ phân hóa kém hơn ở nhóm điểm 6 - 8.|
+|Lịch Sử|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/499dfd5b-cef2-4a79-b606-b2b151a89229" alt="..." width="500" />|Chưa đủ dữ kiện để phân tích|
+|Địa Lý|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/cbbd143b-af56-49c7-bac6-ec2a77d9737d" alt="..." width="500" />|Chưa đủ dữ kiện để phân tích|
+|Giáo dục Công Dân|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/0b87f0c5-4185-456b-9ee3-c1d8ceeaf765" alt="..." width="500" />|Phổ điểm chưa đạt chuẩn, là môn thi không hoặc ít nằm trong các khối thi xét tuyển nhưng điểm thi cũng cần phải tuân theo quy tắc 50 cơ bản - 50 nâng cao vì điểm thi còn dùng để xét tốt nghiệp nên cần có sự đồng đều về điểm số.|
+
+**Kết luận**:
+- Các môn có thể cải thiện:
+  
+- Các môn cần phân tích kỹ:
 
 ### 3. Phân tích chi tiết điểm khối thi
 **Khối thi**:
