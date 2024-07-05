@@ -40,7 +40,7 @@ Xem chi tiết: ...
 - [x] **Khác biệt yêu cầu về điểm số**: Đối với các thí sinh thi tốt nghiệp, điểm số đủ điểm để tốt nghiệp là khác nhau giữa các thí sinh và phần lớn là ở mức dưới trung bình, trường hợp này phổ điểm có xu hướng lệch dương ``(Positive Skewed Distribution)``
 - [x] **Chất lượng giáo dục không đồng đều**: Vì kỳ thi có quy mô toàn Quốc nên số lượng và chất lượng thí sinh cũng sẽ khác nhau ở các khu vực, do sẽ phổ điểm có thể lệch âm ``(Negative Skewed Distribution)``.
 
-`` Tránh nhầm lẫn với phổ điểm phân hóa và phổ điểm chưa chuẩn``
+`` Tránh nhầm lẫn với phổ điểm phân hóa và phổ điểm chưa chuẩn``: Đối với kiểu bài thi NRT thì đề thi có yêu cầu về phân loại thí sinh cao nên độ khó của đề thi có thể điều chỉnh để phù hợp với yêu cầu phân loại thí sinh theo các mức độ khác nhau, tuy nhiên vì đề thi có kết hợp thêm nội dung cơ bản nên độ khó vẫn cần được đánh giá một cách cẩn thận để đảm bảo tính công bằng và phù hợp của bài thi. Trong trường hợp bài thi THPT Quốc Gia 2018 thì bắt buộc phổ điểm của thí sinh tham dự để xét tuyển thì phổ điểm phải có xu hướng tách biệt với nhóm thí sinh tốt nghiệp ``(Q3 [Tứ phân vị thứ 3] của điểm thi tốt nghiệp = Q1 [Tứ phân vị thứ 1] của điểm thi xét tuyển)``.
 
 -  Mô phỏng phân bố điểm thi sử dụng phân phối nhị thức ``(Binomial Distribution)`` : Với điểm thi tốt nghiệp nằm ở giữa biểu đồ $B(n=40, p= 0.5)$ và điểm thi xét tuyển nằm ở 3/4 biểu đồ $B(n=40, p= 0.75)$.
       
@@ -56,15 +56,20 @@ Xem chi tiết: ...
 
 ## IV. Phân tích
 
-### 1. Đánh giá chung về kết quả thi THPT Quốc Gia 2018
+### 1. Đánh giá chung về kết quả thi THPT Quốc Gia 2018 *(Chứng minh Giả thuyết: Mỗi thí sinh có mục tiêu về điểm số khác nhau ở từng môn thi)*
 
-|Image|Text|
+**Ghi chú**: Nhóm thí sinh THPT là thí sinh dự thi chính có mục tiêu chung để xét tốt nghiệp, không bao gồm thí sinh tự do hoặc không tham dự đủ 6 hoặc 9 môn thi.
+
+|Plot|Description|
 |-|-|
-|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/8e439a22-f76f-4036-8dfd-dd57f330f54f" alt="..." width="500" />|**Biểu đồ biểu diễn mối quan hệ và phân bố điểm thi thông qua hai giá trị Range (Khoảng biến thiên điểm số) (trục x) và Average (Điểm trung bình) (trục y) của thí sinh THPT**.<br>abc|
-|<img src="https://i.imgur.com/pxpCQJw.png" alt="..." width="600" />|**Biểu đồ biểu diễn mối quan hệ và phân bố điểm thi thông qua hai giá trị Range (Khoảng biến thiên điểm số) (trục x) và Average (Điểm trung bình) (trục y) của thí sinh THPT**.<br>abc|
+|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/8e439a22-f76f-4036-8dfd-dd57f330f54f" alt="..." width="500" />|**Biểu đồ biểu diễn mối quan hệ và phân bố điểm thi thông qua hai giá trị Range (Khoảng biến thiên điểm số) (trục x) và Average (Điểm trung bình) (trục y) của nhóm thí sinh THPT**.<br>*Nhận xét*: Phân bố điểm thi có mật độ cao ở nhóm thí sinh có điểm trung bình [4;6] và khoảng biến thiên [3;5]. Xét ở ngưỡng điểm trung bình là 5.0 và khoảng biến thiên là 2.0 (Mức đánh giá thí sinh đạt chuẩn) thì chỉ có 3% thí sinh đạt|
+|<img src="https://i.imgur.com/pxpCQJw.png" alt="..." width="600" />|**Biểu đồ biểu diễn tần số tích lũy giảm dần theo số lượng thí sinh đạt điểm trung bình các môn thi của nhóm thí sinh THPT**.<br>*Nhận xét*: Đối chiếu với tỉ lệ tốt nghiệp của nhóm thí sinh này là 98,36% [^4], điểm thi tối thiểu trung bình chung cho các thí sinh đã tốt nghiệp là 3.25 - 3.5, tỉ lệ giảm mạnh từ mức 4.0.|
 
-a) Về số lượng<br>
-- Thí sinh dự thi theo môn
+**Kết luận**: Điểm số có biến động mạnh không chỉ ở từng môn thi mà còn ở mỗi thí sinh. Việc này cho thấy sự khác biệt lớn trong khả năng và mục tiêu thi của thí sinh, ảnh hưởng đến phân bố điểm thi và việc đánh giá độ khó của đề thi.
+
+### 2. Về số lượng thí sinh dự thi THPT Quốc Gia 2018 *(Chứng minh Giả thuyết: Cách tổng hợp điểm thi chưa hợp lý)*
+
+a) Về số lượng thí sinh dự thi theo môn thi<br>
 
 |STT|Môn thi|Tổng số thí sinh|Thi để tốt nghiệp|%|Thi để xét tuyển|%|Khối|
 |-|-|-|-|-|-|-|-|
@@ -80,7 +85,7 @@ a) Về số lượng<br>
 > [!NOTE]
 > Môn ``Tiếng Anh`` và ``Sinh Học`` là các môn có tỉ lệ thí sinh lựa chọn để xét tuyển Đại học thấp, do đó đây là môn sẽ có phân phối điểm thi khác biệt rõ nhất khi tách 2 phần điểm. Môn ``Lịch Sử`` và ``Địa Lý`` do chỉ có một khối thi duy nhất nên sẽ không có khác biệt nhiều so với phổ điểm gốc (toàn bộ thí sinh).
 
-- Thí sinh dự thi theo khối
+b) Về số lượng thí sinh dự thi theo khối thi
   
 |STT|Khối|Tổng số thí sinh có hình thành điểm|Là khối thi có điểm cao nhất|%|% of Total|
 |-|-|-|-|-|-|
@@ -104,15 +109,20 @@ a) Về số lượng<br>
 ≥ 143,000 thí sinh (Tổng số nguyện vọng/Tổng số thí sinh có điểm khối C00 cao nhất < 1).
 
 > [!IMPORTANT]
-> Các môn ``Lịch Sử``, ``Địa Lý`` và ``khối C00`` sẽ không được phân tích chính xác do không thể xác định số lượng thí sinh thực tế sử dụng điểm thi các môn và khối thi này để xét tuyển.
+> Đối chiếu từ dữ liệu có sẵn là số nguyện vọng theo khối thi, các môn ``Lịch Sử``, ``Địa Lý`` và ``khối C00`` sẽ không được phân tích chính xác do không thể xác định số lượng thí sinh thực tế sử dụng điểm thi các môn và khối thi này để xét tuyển, nguyên nhân là do tỉ lệ thí sinh tham dự tổ hợp KHXH cao và thí sinh chỉ thi tốt nghiệp có xu hướng chọn tổ hợp môn này.
+
+Kết luận: 
+- Việc tách số lượng thí sinh dự thi ra thành hai nhóm là hoàn toàn hợp lý khi có sự khác biệt về tỉ lệ chọn môn thi và khối thi. Điều này đặc biệt quan trọng khi xem xét số lượng thí sinh ở từng khối thi, vì việc lọc ra thí sinh có khối thi lớn nhất sẽ giảm áp lực lên phổ điểm, giúp phản ánh chính xác hơn năng lực của thí sinh.
+
+- Đặc biệt, ở khối D1 gồm ba môn thi bắt buộc (Toán, Văn, Anh), hầu hết toàn bộ thí sinh đều có điểm thi ở các môn này. Điều này làm tăng mật độ thí sinh trong phổ điểm của khối D1, và việc phân tách này sẽ giúp tránh sự ảnh hưởng của mật độ thí sinh quá cao đến việc so sánh điểm thi.
+
+- Tóm lại, việc phân nhóm thí sinh dựa trên mục tiêu và khối thi giúp cung cấp cái nhìn chính xác hơn về phân bố điểm thi và độ khó của đề thi. Điều này sẽ hỗ trợ tốt hơn trong việc cải thiện quy trình dạy và học, và điều chỉnh các tiêu chí đánh giá sao cho phù hợp và công bằng hơn.
 
 **b) Về phân bố điểm số chung**
 - a
 
-2. Phân tích chi tiết các môn thi<br>
-**Môn Toán**:
-
-|c|a|b|
+### 2. Phân tích chi tiết điểm môn thi
+|Cat|Plot|Description|
 |-|-|-|
 |Toán|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/d26354e0-963a-42c0-8466-2e254b282235" alt="..." width="500" />|a|
 |Ngữ Văn|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/32ceea05-db1e-4ac5-89a4-cc2e8059a93d" alt="..." width="500" />|a|
@@ -124,11 +134,16 @@ a) Về số lượng<br>
 |Địa Lý|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/cbbd143b-af56-49c7-bac6-ec2a77d9737d" alt="..." width="500" />|a|
 |Giáo dục Công Dân|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/0b87f0c5-4185-456b-9ee3-c1d8ceeaf765" alt="..." width="500" />|a|
 
-
+### 3. Phân tích chi tiết điểm khối thi
 **Khối thi**:
-![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/4dcf1ac0-44aa-4b7a-bfa1-73cdbe82c472)
+|Plot|Description|
+|-|-|
+|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/4dcf1ac0-44aa-4b7a-bfa1-73cdbe82c472" alt="..." width="500" />|a|
 
+### 4. Phân tích điểm môn thi và khối thi theo khu vực
 
 [^1]: My reference.
 [^2]: My reference.
-[^3]: [QUANTITATIVE CRITERIA FOR A FAVORABLE END-OF-COURSE TRANSCRIPT](
+[^3]: [QUANTITATIVE CRITERIA FOR A FAVORABLE END-OF-COURSE TRANSCRIPT]
+[^4]:
+[^5]:
