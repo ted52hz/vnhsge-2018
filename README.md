@@ -139,7 +139,9 @@ Kết luận:
 
 ### 3. Phân tích chi tiết điểm khối thi
 
-|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/4dcf1ac0-44aa-4b7a-bfa1-73cdbe82c472" alt="..." width="1000" />
+|CDF|PDF|
+|-|-|
+|<img src="https://i.imgur.com/GGsVPqV.png" alt="..." width="1000" height="250" />|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/fe03e255-b93a-4cac-813d-294072f2db27" alt="..." width="1000" height="250" />|
 
 |P|A00|A01|B00|D01|C00
 |-|-|-|-|-|-|
@@ -151,6 +153,9 @@ Kết luận:
 
 
 ### 4. Phân tích điểm môn thi và khối thi theo khu vực
+<img src="https://i.imgur.com/9gAAQmg.png" alt="..." width="1000" height="500" />
+
+<img src="https://i.imgur.com/wPkDY0z.png" alt="..." width="1000" height="500" />
 
 ### 5. Các bất thường về điểm số
 
