@@ -130,7 +130,7 @@ Kết luận:
 |Địa Lý|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/cbbd143b-af56-49c7-bac6-ec2a77d9737d" alt="..." width="500" />|Chưa đủ dữ kiện để phân tích|
 |Giáo dục Công Dân|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/0b87f0c5-4185-456b-9ee3-c1d8ceeaf765" alt="..." width="500" />|Phổ điểm chưa đạt chuẩn, là môn thi không hoặc ít nằm trong các khối thi xét tuyển nhưng điểm thi cũng cần phải tuân theo quy tắc 50 cơ bản - 50 nâng cao vì điểm thi còn dùng để xét tốt nghiệp nên cần có sự đồng đều về điểm số.|
 
-### 3. Phân tích chi tiết điểm khối thi
+### 3. Tổng hợp điểm khối thi
 
 |CDF|PDF|
 |-|-|
@@ -145,9 +145,9 @@ Kết luận:
 |1%	|24.8+ (1375)	|25.35+ (471)	      |24.06+ (906)	|23.95+ (2394)	|23.50+ (4372)
 
 
-### 4. Phân tích điểm môn thi và khối thi theo khu vực
+### 4. Xu hướng điểm thi theo khu vực
 
-|Phân phối tỉ lệ thí sinh lựa chọn môn thi của từng tỉnh/thành|Phân phối tỉ lệ thí sinh chọn theo khối|
+|Phân phối tỉ lệ thí sinh lựa chọn môn thi là môn xét tuyển của từng khu vực|Phân phối tỉ lệ thí sinh theo khối trên toàn khu vực|
 |-|-|
 |<img src="https://i.imgur.com/9gAAQmg.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/wPkDY0z.png" alt="..." width="1000" height="250" />|
 
@@ -169,8 +169,12 @@ Kết luận:
 |**D01**|
 |<img src="https://i.imgur.com/HnUqXF5.pngg" alt="..." width="1000" height="250" />|
 
-### 5. Các bất thường về điểm số
-
+**Outliers**: Sử dụng dữ liệu điểm thi tốt nghiệp để xác định nhóm thí sinh đạt điểm cao nhưng không nằm trong tổ hợp xét tuyển phổ biến (Xét với nhóm thí sinh tự do, có số lượng môn thi < 6):
+- Sử dụng giá trị ``Upper Fence`` để xác định các giá trị được xem là ngoại lai của từng khu vực, từ đó xác định được thí sinh có điểm cao trội hơn với nhóm thí sinh còn lại.
+- Kết quả:
+   - [x] tổ hợp môn dự thi Toán - Ngữ Văn - Lịch Sử (C03): Có 3,853 thí sinh có điểm cao 1 môn thi (3,805 bài thi môn Lịch Sử và 340 bài thi môn Toán), trong đó có 290 thí sinh có điểm cao ở 2 môn thi (Toán, Lịch Sử).
+   - [ ] 
+a) 
 
 [^1]: My reference.
 [^2]: My reference.
