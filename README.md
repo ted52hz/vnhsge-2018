@@ -138,11 +138,11 @@ Kết luận:
 
 |P|A00|A01|B00|D01|C00
 |-|-|-|-|-|-|
-|30%	|19.50+ (40355)	|20.60+ (14080)	      |18.35+ (26440)	|18.15+ (69469)	|16.25+ (130743)
-|20%	|20.50+ (26982)	|21.60+ (9417)	      |19.55+ (17664)	|19.30+ (46996)	|17.25+ (90987)
-|10%	|21.85+ (13737) 	|22.90+ (4699)	      |21.25+ (8793)	|20.90+ (23618)	|19+ (44180)
-|5%	|22.95+ (6883)	|23.80+ (2406)	      |22.50+ (4477)	|22.10+ (11884)	|20.50+ (22274)
-|1%	|24.8+ (1375)	|25.35+ (471)	      |24.06+ (906)	|23.95+ (2394)	|23.50+ (4372)
+      |30%	|19.50+ (40355)	|20.60+ (14080)	      |18.35+ (26440)	|18.15+ (69469)	|16.25+ (130743)
+      |20%	|20.50+ (26982)	|21.60+ (9417)	      |19.55+ (17664)	|19.30+ (46996)	|17.25+ (90987)
+      |10%	|21.85+ (13737) 	|22.90+ (4699)	      |21.25+ (8793)	|20.90+ (23618)	|19+ (44180)
+      |5%	|22.95+ (6883)	|23.80+ (2406)	      |22.50+ (4477)	|22.10+ (11884)	|20.50+ (22274)
+      |1%	|24.8+ (1375)	|25.35+ (471)	      |24.06+ (906)	|23.95+ (2394)	|23.50+ (4372)
 
 
 ### 4. Xu hướng điểm thi theo khu vực
@@ -169,11 +169,36 @@ Kết luận:
 |**D01**|
 |<img src="https://i.imgur.com/HnUqXF5.pngg" alt="..." width="1000" height="250" />|
 
+### 5. Các giá trị outliers (Ngoại lai)
+
 **Outliers**: Sử dụng dữ liệu điểm thi tốt nghiệp để xác định nhóm thí sinh đạt điểm cao nhưng không nằm trong tổ hợp xét tuyển phổ biến (Xét với nhóm thí sinh tự do, có số lượng môn thi < 6):
-- Sử dụng giá trị ``Upper Fence`` để xác định các giá trị được xem là ngoại lai của từng khu vực, từ đó xác định được thí sinh có điểm cao trội hơn với nhóm thí sinh còn lại.
-- Kết quả:
-   - [x] tổ hợp môn dự thi Toán - Ngữ Văn - Lịch Sử (C03): Có 3,853 thí sinh có điểm cao 1 môn thi (3,805 bài thi môn Lịch Sử và 340 bài thi môn Toán), trong đó có 290 thí sinh có điểm cao ở 2 môn thi (Toán, Lịch Sử).
-   - [ ] 
+- Sử dụng giá trị ``Upper Fence [Q3 + 1.5(IQR)]`` để xác định các giá trị được xem là ngoại lai của từng khu vực, từ đó xác định được thí sinh có điểm cao trội hơn với nhóm thí sinh còn lại.
+  
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/c59ac296-e88a-4d3a-a128-ee3af39844f0)
+
+|Toán|Văn|
+|:---:|:---:|
+|<img src="https://i.imgur.com/nKfrneK.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/W6bmMys.png" alt="..." width="1000" height="250" />|
+|**Tiếng Anh**|**Vật Lí**|
+|<img src="https://i.imgur.com/CFyFtOM.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/294wVYA.png" alt="..." width="1000" height="250" />|
+|**Hóa Học**|**Sinh Học**|
+|<img src="https://i.imgur.com/Vwlnxz5.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/yENy3S9.png" alt="..." width="1000" height="250" />|
+|**Lịch Sử**|**Địa Lý**|
+|<img src="https://i.imgur.com/W6ckjY5.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/qC2igwV.png" alt="..." width="1000" height="250" />|
+
+**Nhận xét**: Từ kết quả phân tích cho thấy: Nhóm thí sinh dự thi 3 môn thi là Toán, Ngữ Văn và Lịch Sử có nhiều thí sinh thuộc nhóm điểm cao nhiều nhất: Có 3,978 thí sinh đạt điểm cao môn Lịch Sử và 292 thí sinh đạt điểm cao môn Toán.
+
+ - Có 15,793 thí sinh tự do có tổ hợp môn dự thi Toán - Ngữ Văn - Lịch Sử (C03), 
+
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/5026d07c-3e0d-4323-bb57-62b3f4bd7464)
+
+<details>
+<summary>Tổng hợp điểm thi C03 theo từng tỉnh thành: Phát hiện các điểm thi cao bất thường</summary>
+<img src="https://i.imgur.com/C7gZbwz.png" alt="..." width="800" height="1000" />      
+</details>
+
+
+
 a) 
 
 [^1]: My reference.
