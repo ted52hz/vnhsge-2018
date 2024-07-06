@@ -153,9 +153,28 @@ Kết luận:
 
 
 ### 4. Phân tích điểm môn thi và khối thi theo khu vực
-<img src="https://i.imgur.com/9gAAQmg.png" alt="..." width="1000" height="500" />
 
-<img src="https://i.imgur.com/wPkDY0z.png" alt="..." width="1000" height="500" />
+|Tỉ lệ thí sinh lựa chọn môn thi|Tỉ lệ thí sinh lựa chọn khối thi|
+|-|-|
+|<img src="https://i.imgur.com/9gAAQmg.png" alt="..." width="1000" height="250" /><br>[Data](https://i.imgur.com/qhX4vRo.png)|<img src="https://i.imgur.com/wPkDY0z.png" alt="..." width="1000" height="250" /><br>[Data](https://i.imgur.com/46L96JJ.png)|
+
+|Toán|Ngữ Văn|
+|:---:|:---:|
+|<img src="https://i.imgur.com/Tx8zuCj.pngg" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/q07PoIn.png" alt="..." width="1000" height="250" />|
+|**Tiếng Anh**|**Vật Lí**|
+|<img src="https://i.imgur.com/BUPZAGm.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/v1thcor.png" alt="..." width="1000" height="250" />|
+|**Hóa Học**|**Sinh Học**|
+|<img src="https://i.imgur.com/BMEsSCG.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/uk7AVXc.png" alt="..." width="1000" height="250" />|
+|**Lịch Sử**|**Địa Lý**|
+|<img src="https://i.imgur.com/0g65WRK.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/ZTFfq1W.png" alt="..." width="1000" height="250" />|
+
+|A00|A01|
+|:---:|:---:|
+|<img src="https://i.imgur.com/4UHsQw7.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/turky77.png" alt="..." width="1000" height="250" />|
+|**B00**|**C00**|
+|<img src="https://i.imgur.com/z1FmdfX.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/xnjKPcT.png" alt="..." width="1000" height="250" />|
+|**D01**|
+|<img src="https://i.imgur.com/HnUqXF5.pngg" alt="..." width="1000" height="250" />|
 
 ### 5. Các bất thường về điểm số
 
