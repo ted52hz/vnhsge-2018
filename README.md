@@ -117,8 +117,6 @@ Kết luận:
 
 - Đặc biệt, ở khối D1 gồm ba môn thi bắt buộc (Toán, Văn, Anh), hầu hết toàn bộ thí sinh đều có điểm thi ở các môn này. Điều này làm tăng mật độ thí sinh trong phổ điểm của khối D1, và việc phân tách này sẽ giúp tránh sự ảnh hưởng của mật độ thí sinh quá cao đến việc so sánh điểm thi.
 
-- Tóm lại, việc phân nhóm thí sinh dựa trên mục tiêu và khối thi giúp cung cấp cái nhìn chính xác hơn về phân bố điểm thi và độ khó của đề thi. Điều này sẽ hỗ trợ tốt hơn trong việc cải thiện quy trình dạy và học, và điều chỉnh các tiêu chí đánh giá sao cho phù hợp và công bằng hơn.
-
 ### 3. Phân tích chi tiết điểm môn thi (Điểm thi của nhóm thí sinh xét tuyển)
 |Cat|Plot|Description|
 |-|-|-|
@@ -131,11 +129,6 @@ Kết luận:
 |Lịch Sử|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/499dfd5b-cef2-4a79-b606-b2b151a89229" alt="..." width="500" />|Chưa đủ dữ kiện để phân tích|
 |Địa Lý|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/cbbd143b-af56-49c7-bac6-ec2a77d9737d" alt="..." width="500" />|Chưa đủ dữ kiện để phân tích|
 |Giáo dục Công Dân|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/0b87f0c5-4185-456b-9ee3-c1d8ceeaf765" alt="..." width="500" />|Phổ điểm chưa đạt chuẩn, là môn thi không hoặc ít nằm trong các khối thi xét tuyển nhưng điểm thi cũng cần phải tuân theo quy tắc 50 cơ bản - 50 nâng cao vì điểm thi còn dùng để xét tốt nghiệp nên cần có sự đồng đều về điểm số.|
-
-**Kết luận**:
-- Các môn có thể cải thiện:
-  
-- Các môn cần phân tích kỹ:
 
 ### 3. Phân tích chi tiết điểm khối thi
 
@@ -154,9 +147,9 @@ Kết luận:
 
 ### 4. Phân tích điểm môn thi và khối thi theo khu vực
 
-|Tỉ lệ thí sinh lựa chọn môn thi|Tỉ lệ thí sinh lựa chọn khối thi|
+|Phân phối tỉ lệ thí sinh lựa chọn môn thi của từng tỉnh/thành|Phân phối tỉ lệ thí sinh chọn theo khối|
 |-|-|
-|<img src="https://i.imgur.com/9gAAQmg.png" alt="..." width="1000" height="250" /><br>[Data](https://i.imgur.com/qhX4vRo.png)|<img src="https://i.imgur.com/wPkDY0z.png" alt="..." width="1000" height="250" /><br>[Data](https://i.imgur.com/46L96JJ.png)|
+|<img src="https://i.imgur.com/9gAAQmg.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/wPkDY0z.png" alt="..." width="1000" height="250" />|
 
 |Toán|Ngữ Văn|
 |:---:|:---:|
