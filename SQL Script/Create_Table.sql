@@ -1,9 +1,17 @@
 CREATE DATABASE IF NOT EXISTS VNHSGE;
 USE VNHSGE;
 
+CREATE TABLE IF NOT EXISTS Economic_region (
+    er_code VARCHAR(2) PRIMARY KEY,
+    region VARCHAR(50)
+);
+
+
 CREATE TABLE IF NOT EXISTS Province (
     province_code VARCHAR(2) PRIMARY KEY,
     province_name VARCHAR(50)
+    FOREIGN KEY (er_code) REFERENCES Economic_region(er_code)
+	
 );
 
 CREATE TABLE IF NOT EXISTS Candidate (
@@ -49,3 +57,4 @@ CREATE TABLE IF NOT EXISTS Candidate_Block (
     FOREIGN KEY (candidate_id) REFERENCES Candidate(candidate_id),
     FOREIGN KEY (block_id) REFERENCES Block_info(block_id)
 );
+

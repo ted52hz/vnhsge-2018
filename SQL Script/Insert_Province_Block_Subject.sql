@@ -1,3 +1,11 @@
+INSERT INTO economic_region (er_code,region) values ('1','Thành phố trực thuộc trung ương');
+INSERT INTO economic_region (er_code,region) values ('2','Đồng bằng sông Hồng');
+INSERT INTO economic_region (er_code,region) values ('3','Trung du miền núi phía Bắc');
+INSERT INTO economic_region (er_code,region) values ('4','Đồng bằng duyên hải miền Trung');
+INSERT INTO economic_region (er_code,region) values ('5','Tây Nguyên');
+INSERT INTO economic_region (er_code,region) values ('6','Đông Nam Bộ');
+INSERT INTO economic_region (er_code,region) values ('7','Đồng bằng sông Cửu Long');
+
 INSERT INTO Province (province_code,province_name) values ('1','Hà Nội');
 INSERT INTO Province (province_code,province_name) values ('2','TP. Hồ Chí Minh');
 INSERT INTO Province (province_code,province_name) values ('3','Hải Phòng');
