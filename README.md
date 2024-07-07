@@ -1,59 +1,97 @@
-## Phân tích điểm thi THPT Quốc Gia 2018 [(PDF - Version 1)](https://drive.google.com/file/d/1zVducPKTKcAlzRRZjYIvEetwaDionNvT/view)
+# Phân tích điểm thi THPT Quốc Gia 2018
 > 07/2018 - 07/2024
+
 ## I. Đặt Vấn Đề
 
-Kỳ thi THPT Quốc Gia (2015 – 2019), là một kỳ thi quan trọng đối với học sinh THPT. Mục đích của kỳ thi là xét tốt nghiệp và làm cơ sở để xét tuyển vào các trường Cao đẳng, Đại học. Sau khi kết thúc kỳ thi, Bộ GD&ĐT sẽ công bố điểm thi trên các trang thông tin điện tử để thí sinh và giáo viên có thể đánh giá kết quả. Tuy nhiên, kết quả phân tích phổ điểm thi trong những năm gần đây chưa phản ánh đúng theo mục tiêu của kỳ thi khi lấy kết quả của toàn bộ thí sinh để đánh giá:
+Kỳ thi THPT Quốc Gia (2015 – 2019) là một kỳ thi quan trọng đối với học sinh THPT, với mục đích xét tốt nghiệp và làm cơ sở để xét tuyển vào các trường Cao đẳng, Đại học. Sau khi kết thúc kỳ thi, Bộ Giáo dục và Đào tạo (GD&ĐT) sẽ công bố điểm thi trên các trang thông tin điện tử để thí sinh và giáo viên có thể đánh giá kết quả. Tuy nhiên, kết quả phân tích phổ điểm thi trong những năm gần đây chưa phản ánh đúng theo mục tiêu của kỳ thi khi lấy kết quả của toàn bộ thí sinh để đánh giá. Bài viết này sẽ tập trung vào việc đề xuất phương pháp phân tích phổ điểm một cách chính xác hơn theo từng nhóm điểm thi, và trình bày một số vấn đề còn bất cập khi tổ chức kỳ thi.
 
-``1. Phổ điểm môn thi: Mỗi thí sinh có mục tiêu về điểm số khác nhau ở từng môn thi ``<br>
-- Trong kỳ thi THPT Quốc Gia 2018 - Có 879.705 thí sinh dự thi để xét công nhận tốt nghiệp THPT và có 688.466 thí sinh (chiếm 74.3%) dùng kết quả để xét tuyển Cao đẳng, Đại học[^1]. Điều này không đồng nghĩa với việc mỗi môn thi có 74.3% thí sinh dự thi để xét tuyển mà sẽ phân bố khác nhau theo từng môn theo khối thi. Việc sử dụng điểm thi của toàn bộ thí sinh để đánh giá độ khó của đề thi có thể không chính xác, vì độ khó sẽ bị ảnh hưởng bởi tỉ lệ thí sinh thi để xét tốt nghiệp và thi để xét tuyển. Để hiểu rõ hơn về phổ điểm của các môn thi, chúng ta cần phải xem xét phổ điểm của từng nhóm thí sinh riêng biệt.
+``1. Phổ điểm môn thi: Sự khác biệt về mục tiêu của thí sinh ``<br>
+- Trong kỳ thi THPT Quốc Gia 2018, có 879.705 thí sinh dự thi để xét công nhận tốt nghiệp THPT và có 688.466 thí sinh (chiếm 74.3%) sử dụng kết quả để xét tuyển Cao đẳng, Đại học[^1]. Tuy nhiên, không phải tất cả các môn thi đều có 74.3% thí sinh dự thi với mục đích xét tuyển, vì tỉ lệ này thay đổi theo từng môn và khối thi. Việc sử dụng điểm thi của toàn bộ thí sinh để đánh giá độ khó của đề thi có thể không chính xác, vì độ khó sẽ bị ảnh hưởng bởi tỷ lệ thí sinh thi để xét tốt nghiệp và thi để xét tuyển. Để hiểu rõ hơn về phổ điểm của các môn thi, cần xem xét phổ điểm của từng nhóm thí sinh riêng biệt.
 
 
-``2. Phổ điểm khối thi: Cách tổng hợp điểm thi chưa hợp lý``<br>
-- Với việc bắt buộc tham dự tối thiểu 6 môn thi thì mỗi thí sinh sẽ hình thành nhiều tổ hợp môn thi khác nhau, thí sinh có xu hướng chọn tổ hợp môn thi có điểm cao nhất để xét tuyển *(Điểm trúng tuyển giữa các tổ hợp xét tuyển trong cùng 1 ngành là bằng nhau)*, do đó điểm khối thi khác sẽ không được sử dụng (hay không có giá trị thống kê). Tương tự với phổ điểm môn thi, phổ điểm khối thi cũng đang tồn tại hai nhóm điểm, gây khó khăn trong việc xác định chính xác số lượng thí sinh sử dụng điểm khối thi và có thể dẫn đến nhận định sai về điểm số.
+``2. Phổ điểm khối thi: Vấn đề trong tổng hợp điểm thi``<br>
+- Với quy định bắt buộc tham dự tối thiểu 6 môn thi, mỗi thí sinh sẽ hình thành nhiều tổ hợp môn thi khác nhau. Thí sinh có xu hướng chọn tổ hợp môn thi có điểm cao nhất để xét tuyển, vì các trường Đại học có xu hướng xét điểm trúng tuyển giữa các tổ hợp xét tuyển trong cùng một ngành là bằng nhau. Điều này dẫn đến việc điểm của các khối thi khác không được sử dụng (hay không có giá trị thống kê). Tương tự với phổ điểm môn thi, phổ điểm khối thi cũng tồn tại hai nhóm điểm, gây khó khăn trong việc xác định chính xác số lượng thí sinh sử dụng điểm khối thi và có thể dẫn đến nhận định sai về điểm số.
 
-Từ những nguyên nhân trên, bài viết này sẽ tập trung vào việc đề xuất phương pháp phân tích phổ điểm một cách chính xác hơn theo từng nhóm điểm thi thông qua việc lọc điểm thi, ngoài ra còn trình bày thêm một số vấn đề còn bất cập khi tổ chức kỳ thi.
+Từ những vấn đề nêu trên, bài viết đề xuất phương pháp phân tích phổ điểm một cách chính xác hơn theo từng nhóm điểm thi thông qua việc lọc điểm thi. Ngoài ra, bài viết cũng trình bày một số vấn đề còn bất cập khi tổ chức kỳ thi, nhằm góp phần cải thiện độ chính xác và công bằng trong đánh giá kết quả của kỳ thi THPT Quốc Gia.
 
 ## II. Tổng quan về dữ liệu
 
-**1. Phương án lọc dữ liệu điểm môn thi tốt nghiệp & môn thi xét tuyển**
+### 1. Phương án lọc dữ liệu điểm môn thi tốt nghiệp & môn thi xét tuyển
 
-- [x] **Bước 1**: Xác định các khối thi (Tổ hợp các môn thi) phổ biến.
-- [x] **Bước 2**: Tính và xếp hạng điểm các khối thi của từng thí sinh (Đảm bảo tham gia đầy đủ 3 môn thi).
+- [x] **Bước 1**: Xác định các khối thi (tổ hợp các môn thi) phổ biến.
+> Đầu tiên, chúng ta cần xác định các tổ hợp môn thi phổ biến mà thí sinh thường sử dụng để xét tuyển vào các trường Đại học, Cao đẳng[^2]. Những tổ hợp phổ biến bao gồm: <br>
+> - A00: Toán, Lý, Hóa <br>
+> - A01: Toán, Lý, Anh <br>
+> - B00: Toán, Hóa, Sinh <br>
+> - C00: Văn, Sử, Địa <br>
+> - D01: Toán, Văn, Anh <br>
+
+- [x] **Bước 2**: Tính và xếp hạng điểm các khối thi của từng thí sinh
+> Đối với từng thí sinh, chúng ta cần tính tổng điểm của các tổ hợp môn thi mà thí sinh đã tham gia. Chỉ những tổ hợp có đầy đủ ba môn thi mới được tính tổng điểm. Sau khi tính tổng điểm, xếp hạng các tổ hợp theo thứ tự từ cao xuống thấp.
+
 - [x] **Bước 3**: Chọn khối thi có tổng điểm cao nhất là khối thi chính và 3 môn trong khối thi đó là môn thi xét tuyển, các môn còn lại là môn thi tốt nghiệp.
-> [!WARNING]
-> Tránh ``Data Bias``: Theo thống kê, có khoảng 90% thí sinh lựa chọn các tổ hợp A00, A01, B00, C00, D01 và chỉ có 10% cho các tổ hợp [^2]. Nếu sử dụng toàn bộ tổ hợp hiện có để xét thì sẽ không đánh giá chính xác và hiệu quả nếu xảy ra đồng thời 2 điều sau:
-> - Có một môn thi nằm trong tổ hợp khối thi mà thí sinh kỳ vọng đạt điểm cao có điểm thi thấp hơn một môn thi khác do yếu tố đề thi.
-> - Tổng điểm của 3 môn thi có khối thi không nằm trong tổ hợp xét tuyển yêu cầu của ngành/nhóm ngành mà thí sinh xác định ban đầu.
+> Sau khi xếp hạng, chọn tổ hợp có tổng điểm cao nhất làm khối thi chính của thí sinh. Ba môn thi trong khối thi chính này sẽ được coi là các môn thi xét tuyển. Những môn thi còn lại sẽ được coi là các môn thi tốt nghiệp.
 
-**2. Thu thập và xử lý dữ liệu**<br>
+> [!WARNING]
+> Tránh sai lệch dữ liệu (Data Bias): Theo thống kê, có khoảng 90% thí sinh lựa chọn các tổ hợp A00, A01, B00, C00, D01 và chỉ có 10% cho các tổ hợp khác. Nếu sử dụng toàn bộ các tổ hợp hiện có để xét tuyển thì kết quả có xu hướng chọn 3 môn cao nhất của mỗi thí sinh, kết quả có thể không chính xác và hiệu quả nếu xảy ra đồng thời hai trường hợp sau:
+> - Một môn thi nằm trong tổ hợp khối thi mà thí sinh kỳ vọng đạt điểm cao có điểm thi thấp hơn một môn thi khác (Độ khó đề thi không đồng đều giữa các môn thi).
+> - Tổng điểm của ba môn thi có khối thi không nằm trong tổ hợp xét tuyển yêu cầu của ngành/nhóm ngành mà thí sinh xác định ban đầu (Các nhóm ngành khác ít thí sinh thực sự lựa chọn).
+
+
+### 2. Thu thập và xử lý dữ liệu
 ```
 Xem chi tiết: ...
 ```
 
 ## III. Phân bố điểm thi lý tưởng cho kỳ thi THPT Quốc Gia
 
-``Yếu tố khách quan``
-- [x] **Trọng số của bài thi THPT dùng để xét tốt nghiệp**: Giai đoạn 2015 - 2018, bài thi THPT Quốc gia chiếm 50% ``(Từ năm 2019, chiếm 70%)``. Tương đương với mức độ phân hóa giữa việc thi dùng để tốt nghiệp và thi dùng để xét tuyển Cao Đẳng, Đại Học.
-- [x] **Tính chất của bài thi**:  Phân bố điểm thi của nhóm thí sinh thi để tốt nghiệp tương tự phổ điểm bài thi ``Criterion-Referenced Test (CRT)`` và có đỉnh ở điểm phân hóa (từ nhận biết - thông hiểu sang vận dụng - vận dụng cao). Còn đối với phân bố điểm thi của nhóm thí sinh thi xét tuyển sẽ có dạng hình chuông phân phối chuẩn nằm phía bên phải của thang điểm tương tự phổ điểm bài thi ``Norm-Referenced Test (NRT)``[^3].
+### 1. Yếu tố khách quan
 
-``Yếu tố chủ quan``
-- [x] **Khác biệt yêu cầu về điểm số**: Đối với các thí sinh thi tốt nghiệp, điểm số đủ điểm để tốt nghiệp là khác nhau giữa các thí sinh và phần lớn là ở mức dưới trung bình, trường hợp này phổ điểm có xu hướng lệch dương ``(Positive Skewed Distribution)``
-- [x] **Chất lượng giáo dục không đồng đều**: Vì kỳ thi có quy mô toàn Quốc nên số lượng và chất lượng thí sinh cũng sẽ khác nhau ở các khu vực, do sẽ phổ điểm có thể lệch âm ``(Negative Skewed Distribution)``.
+``Trọng số của bài thi THPT dùng để xét tốt nghiệp``
+- [x] Giai đoạn 2015 - 2018, bài thi THPT Quốc gia chiếm 50%. Tương đương với mức độ phân hóa giữa việc thi dùng để tốt nghiệp và thi dùng để xét tuyển Cao Đẳng, Đại Học.
+- [x] Mức độ phân hóa giữa việc thi để tốt nghiệp và thi để xét tuyển Cao đẳng, Đại học thay đổi theo sự thay đổi trọng số này *(Từ năm 2019, bài thi THPT Quốc Gia chiếm 70%)*.
 
-`` Tránh nhầm lẫn với phổ điểm có tính phân hóa và phổ điểm chưa chuẩn``: Đối với kiểu bài thi NRT thì đề thi có yêu cầu về phân loại thí sinh cao nên độ khó của đề thi có thể điều chỉnh để phù hợp với yêu cầu phân loại thí sinh theo các mức độ khác nhau, tuy nhiên vì đề thi có kết hợp thêm nội dung cơ bản nên độ khó vẫn cần được đánh giá một cách cẩn thận để đảm bảo tính công bằng và phù hợp của bài thi. Trong trường hợp bài thi THPT Quốc Gia 2018 thì bắt buộc phổ điểm của thí sinh tham dự để xét tuyển thì phổ điểm phải có xu hướng tách biệt với nhóm thí sinh tốt nghiệp ``(Q3 [Tứ phân vị thứ 3] của điểm thi tốt nghiệp < Q1 [Tứ phân vị thứ 1] của điểm thi xét tuyển)``.
+``Tính chất của bài thi``
+- [x] Nhóm thí sinh thi để tốt nghiệp: Phân bố điểm thi tương tự phổ điểm của Criterion-Referenced Test (CRT), có đỉnh ở điểm phân hóa từ nhận biết - thông hiểu sang vận dụng - vận dụng cao.
+- [x] Nhóm thí sinh thi để xét tuyển: Phân bố điểm thi có dạng hình chuông, phân phối chuẩn, nằm phía bên phải của thang điểm, tương tự phổ điểm của Norm-Referenced Test (NRT) [^3].
 
--  Mô phỏng phân bố điểm thi sử dụng phân phối nhị thức ``(Binomial Distribution)`` : Với điểm thi tốt nghiệp nằm ở giữa biểu đồ $B(n=40, p= 0.5)$ và điểm thi xét tuyển nằm ở 3/4 biểu đồ $B(n=40, p= 0.75)$.
+
+### 2. Yếu tố chủ quan 
+
+``Khác biệt yêu cầu về điểm số``
+
+- [x] Đối với các thí sinh thi tốt nghiệp, điểm số đủ để tốt nghiệp là khác nhau và phần lớn ở mức dưới trung bình. Thêm nữa, điểm số dùng để xét tốt nghiệp là kết quả trung bình cộng các môn thi, nên điểm số của các môn này thường sẽ không quá cao và có xu hướng tập trung ở mức trung bình hoặc thấp hơn. Điều này làm cho phổ điểm của nhóm thí sinh thi tốt nghiệp có xu hướng lệch dương *(Positive Skewed Distribution)*.
+
+``Chất lượng giáo dục không đồng đều``
+
+- [x] Vì kỳ thi có quy mô toàn quốc nên số lượng và chất lượng thí sinh khác nhau ở các khu vực. Điều này có thể dẫn đến phổ điểm lệch âm *(Negative Skewed Distribution)*.
+
+### 3. Tránh nhầm lẫn với phổ điểm có tính phân hóa và phổ điểm chưa chuẩn
+
+- [x] Đối với bài thi NRT, đề thi yêu cầu phân loại thí sinh cao, và độ khó của đề thi có thể điều chỉnh để phù hợp với yêu cầu phân loại thí sinh theo các mức độ khác nhau. Tuy nhiên, vì đề thi bắt buộc có nội dung cơ bản chiếm 50% nên độ khó vẫn cần được đánh giá một cách cẩn thận để đảm bảo tính công bằng và phù hợp của bài thi đánh giá cho 2 nhóm đối tượng.
+- [x] Trong kỳ thi THPT Quốc Gia 2018, phổ điểm của thí sinh dự thi để xét tuyển phải có xu hướng tách biệt với nhóm thí sinh thi tốt nghiệp (Q3 [Tứ phân vị thứ 3] của điểm thi tốt nghiệp < Q1 [Tứ phân vị thứ 1] của điểm thi xét tuyển), nếu phổ điểm 2 nhóm có xu hướng gần nhau thì xem như phổ điểm chưa chuẩn.
+
+### 4. Mô phỏng phổ điểm
+
+- [x] Mô phỏng phân bố điểm thi sử dụng phân phối nhị thức ``(Binomial Distribution)`` : Với điểm thi tốt nghiệp nằm ở giữa biểu đồ $B(n=40, p= 0.5)$ và điểm thi xét tuyển nằm ở 3/4 biểu đồ $B(n=40, p= 0.75)$.
       
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/5e37d992-8fc8-47a7-85fc-debc0362ce51)
 
-- Mô phỏng trường hợp đề thi chưa chuẩn cho 2 nhóm điểm thi (phổ điểm của môn thi có dạng phân phối nhị thức tương tự như khi các thí sinh chọn đáp án ngẫu nhiên): TN: $B(n=40, p= 0.25)$ và XT: $B(n=20, p= 0.25)$ tịnh tiến qua phải 5 điểm.
+
+- [x] Mô phỏng trường hợp đề thi chưa chuẩn cho 2 nhóm điểm thi (phổ điểm của môn thi có dạng phân phối nhị thức tương tự như khi các thí sinh chọn đáp án ngẫu nhiên): TN: $B(n=40, p= 0.25)$ và XT: $B(n=20, p= 0.25)$ tịnh tiến qua phải 5 điểm.
   
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/2c5f0af7-0e58-4852-a9e7-da04c13bd3b2)
 
-**Xác định mục tiêu của các phổ điểm:**
-- [x] **Điểm thi tốt nghiệp**: Nếu xét theo đề thi thì kỳ thi THPT Quốc Gia 2018 có ngưỡng điểm để đánh giá học sinh đạt tiêu chuẩn là 5.0, nhưng vì kỳ thi chỉ chiếm 50% hoặc thấp hơn (+ điểm ưu tiên) nên nhóm điểm này khó để dùng để đánh giá chất lượng do điều kiện đạt điểm trên 5.0 là không bắt buộc.
-- [x] **Điểm thi xét tuyển**:  Đánh giá mức độ phân hóa của đề thi, là phân bố điểm thi chính thức của kỳ thi để phân loại thí sinh, có thể sử dụng để đánh giá chất lượng giáo dục thay thế cho điểm thi tốt nghiệp.
-- [x] **Khối thi xét tuyển**:  Vì là kết quả tổng hợp nên tập trung giá trị Bách Phân vị ``Percentile`` , mục đích là giúp thí sinh so sánh và xếp hạng điểm thi của mình như thế nào so với các thí sinh khác về phần trăm và số lượng. Không dùng để đánh giá do số lượng thí sinh lớn nên hình dạng phổ điểm sẽ có xu hướng tiệm cận phân phối chuẩn.
+### 5. Xác định mục tiêu của các phổ điểm
+
+``Điểm thi tốt nghiệp``
+- [x] Ngưỡng điểm để đánh giá học sinh đạt tiêu chuẩn là 5.0, nhưng vì kỳ thi chỉ chiếm 50% hoặc thấp hơn (+ điểm ưu tiên) nên nhóm điểm này khó dùng để đánh giá chất lượng do điều kiện đạt điểm trên 5.0 không bắt buộc.
+      
+``Điểm thi xét tuyển``
+- [x] Đánh giá mức độ phân hóa của đề thi, là phân bố điểm thi chính thức của kỳ thi để phân loại thí sinh, có thể sử dụng để đánh giá chất lượng giáo dục thay thế cho điểm thi tốt nghiệp.
+      
+``Khối thi xét tuyển``
+- [x] Vì là kết quả tổng hợp, tập trung giá trị bách phân vị (Percentile), giúp thí sinh so sánh và xếp hạng điểm thi của mình so với các thí sinh khác về phần trăm và số lượng. Không dùng để đánh giá do số lượng thí sinh lớn nên hình dạng phổ điểm sẽ có xu hướng tiệm cận phân phối chuẩn.
 
 ## IV. Phân tích
 
@@ -130,7 +168,7 @@ Kết luận:
 |Địa Lý|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/cbbd143b-af56-49c7-bac6-ec2a77d9737d" alt="..." width="500" />|Chưa đủ dữ kiện để phân tích|
 |Giáo dục Công Dân|<img src="https://github.com/khoaht312/vnhsge-2018/assets/69152064/0b87f0c5-4185-456b-9ee3-c1d8ceeaf765" alt="..." width="500" />|Phổ điểm chưa đạt chuẩn, là môn thi không hoặc ít nằm trong các khối thi xét tuyển nhưng điểm thi cũng cần phải tuân theo quy tắc 50 cơ bản - 50 nâng cao vì điểm thi còn dùng để xét tốt nghiệp nên cần có sự đồng đều về điểm số.|
 
-### 3. Tổng hợp điểm khối thi
+### 4. Tổng hợp điểm khối thi
 
 |CDF|PDF|
 |-|-|
@@ -138,14 +176,14 @@ Kết luận:
 
 |P|A00|A01|B00|D01|C00
 |-|-|-|-|-|-|
-      |30%	|19.50+ (40355)	|20.60+ (14080)	      |18.35+ (26440)	|18.15+ (69469)	|16.25+ (130743)
-      |20%	|20.50+ (26982)	|21.60+ (9417)	      |19.55+ (17664)	|19.30+ (46996)	|17.25+ (90987)
-      |10%	|21.85+ (13737) 	|22.90+ (4699)	      |21.25+ (8793)	|20.90+ (23618)	|19+ (44180)
-      |5%	|22.95+ (6883)	|23.80+ (2406)	      |22.50+ (4477)	|22.10+ (11884)	|20.50+ (22274)
-      |1%	|24.8+ (1375)	|25.35+ (471)	      |24.06+ (906)	|23.95+ (2394)	|23.50+ (4372)
+|30%	|19.50+ (40355)	|20.60+ (14080)	      |18.35+ (26440)	|18.15+ (69469)	|16.25+ (130743)
+|20%	|20.50+ (26982)	|21.60+ (9417)	      |19.55+ (17664)	|19.30+ (46996)	|17.25+ (90987)
+|10%	|21.85+ (13737) 	|22.90+ (4699)	      |21.25+ (8793)	|20.90+ (23618)	|19+ (44180)
+|5%	|22.95+ (6883)	|23.80+ (2406)	      |22.50+ (4477)	|22.10+ (11884)	|20.50+ (22274)
+|1%	|24.8+ (1375)	|25.35+ (471)	      |24.06+ (906)	|23.95+ (2394)	|23.50+ (4372)
 
 
-### 4. Xu hướng điểm thi theo khu vực
+### 5. Xu hướng điểm thi theo khu vực
 
 |Phân phối tỉ lệ thí sinh lựa chọn môn thi là môn xét tuyển của từng khu vực|Phân phối tỉ lệ thí sinh theo khối trên toàn khu vực|
 |-|-|
@@ -169,11 +207,11 @@ Kết luận:
 |**D01**|
 |<img src="https://i.imgur.com/HnUqXF5.pngg" alt="..." width="1000" height="250" />|
 
-### 5. Các giá trị outliers (Ngoại lai)
+### 6. Xác định các giá trị ngoại lai (Outliers)
+- [x] Outliers: Sử dụng dữ liệu điểm thi tốt nghiệp để xác định nhóm thí sinh đạt điểm cao nhưng không nằm trong tổ hợp xét tuyển phổ biến (xét với nhóm thí sinh tự do, có số lượng môn thi < 6):
+> Sử dụng giá trị Upper Fence [Q3 + 1.5(IQR)] để xác định các giá trị được xem là ngoại lai của từng khu vực, từ đó xác định được thí sinh có điểm cao trội hơn so với nhóm thí sinh còn lại.
 
-**Outliers**: Sử dụng dữ liệu điểm thi tốt nghiệp để xác định nhóm thí sinh đạt điểm cao nhưng không nằm trong tổ hợp xét tuyển phổ biến (Xét với nhóm thí sinh tự do, có số lượng môn thi < 6):
-- Sử dụng giá trị ``Upper Fence [Q3 + 1.5(IQR)]`` để xác định các giá trị được xem là ngoại lai của từng khu vực, từ đó xác định được thí sinh có điểm cao trội hơn với nhóm thí sinh còn lại.
-  
+
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/c59ac296-e88a-4d3a-a128-ee3af39844f0)
 
 |Toán|Văn|
@@ -186,23 +224,17 @@ Kết luận:
 |**Lịch Sử**|**Địa Lý**|
 |<img src="https://i.imgur.com/W6ckjY5.png" alt="..." width="1000" height="250" />|<img src="https://i.imgur.com/qC2igwV.png" alt="..." width="1000" height="250" />|
 
-**Nhận xét**: Từ kết quả phân tích cho thấy: Nhóm thí sinh dự thi 3 môn thi là Toán, Ngữ Văn và Lịch Sử có nhiều thí sinh thuộc nhóm điểm cao nhiều nhất: Có 3,978 thí sinh đạt điểm cao môn Lịch Sử và 292 thí sinh đạt điểm cao môn Toán.
+**Nhận xét**: Từ kết quả phân tích cho thấy, phần lớn điểm số cao là của các thí sinh dự thi đúng 3 môn thi là Toán, Ngữ Văn và Lịch Sử : Có 3,978 thí sinh đạt điểm cao môn Lịch Sử và 292 thí sinh đạt điểm cao môn Toán.
 
- - Có 15,793 thí sinh tự do có tổ hợp môn dự thi Toán - Ngữ Văn - Lịch Sử (C03), 
+ - Có 15,793 thí sinh tự do có tổ hợp môn dự thi Toán - Ngữ Văn - Lịch Sử (C03), môn Lịch Sử có xu hướng điểm thi cao hơn khối C00, ở khu vực Trung du miền núi Bắc bộ có nhiều thí sinh đạt điểm cao hơn nếu không tính các tỉnh nằm trong vụ gian lận.[^5].
 
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/5026d07c-3e0d-4323-bb57-62b3f4bd7464)
 
-<details>
-<summary>Tổng hợp điểm thi C03 theo từng tỉnh thành: Phát hiện các điểm thi cao bất thường</summary>
-<img src="https://i.imgur.com/C7gZbwz.png" alt="..." width="800" height="1000" />      
-</details>
+![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/fb6e57c9-fd39-4c27-8c52-9ab47c0646ba)
 
 
-
-a) 
-
-[^1]: My reference.
-[^2]: My reference.
-[^3]: [QUANTITATIVE CRITERIA FOR A FAVORABLE END-OF-COURSE TRANSCRIPT]
+[^1]: Ngoc Ha (2018, Jun, 24). Hơn 925.000 thí sinh dự kỳ thi THPT quốc gia 2018. Báo Tuổi Trẻ. [https://tuoitre.vn/hon-925-000-thi-sinh-du-ky-thi-thpt-quoc-gia-2018-20180623192739292.htm](https://tuoitre.vn/hon-925-000-thi-sinh-du-ky-thi-thpt-quoc-gia-2018-20180623192739292.htm)
+[^2]: Minh Giang (2018, Apr, 27). Hơn 2,7 triệu nguyện vọng xét tuyển đại học 2018. Báo Tuổi Trẻ. [https://tuoitre.vn/hon-2-7-trieu-nguyen-vong-xet-tuyen-dai-hoc-2018-2018042711360019.htm](https://tuoitre.vn/hon-2-7-trieu-nguyen-vong-xet-tuyen-dai-hoc-2018-2018042711360019.htm)
+[^3]: Tran D. P., Vu C. T., (2023). Tiêu chuẩn định lượng cho một bảng điểm kết thúc học phần đẹp. Tạp Chí Nghiên Cứu Khoa Học & Phát Triển. Tập. 2 Số. 1, 35-40. [https://vjol.info.vn/index.php/jsrd/article/view/78451](https://vjol.info.vn/index.php/jsrd/article/view/78451).
 [^4]:
 [^5]:
