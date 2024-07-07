@@ -232,9 +232,21 @@ Kết luận:
 
 ![image](https://github.com/khoaht312/vnhsge-2018/assets/69152064/fb6e57c9-fd39-4c27-8c52-9ab47c0646ba)
 
+## V. Bàn Luận
+> Kể từ khi đổi tên kỳ thi THPT Quốc Gia thành Kỳ thi trung học phổ thông[^6], tiếng Anh luôn là môn được đánh giá là "đội sổ" do điểm trung bình thi thấp và luôn có 2 đỉnh hình thành (một ở nhóm điểm thấp và một ở nhóm điểm cao). Tuy nhiên, khi xét điểm thi 4 năm từ 2019 - 2022 với cách lọc điểm tương tự thì nhận thấy rằng: Môn tiếng Anh đã giảm mức độ phân hóa đáng kể, tính đến năm 2022, mức độ phân hóa chỉ còn 1 điểm (mức 9 - 10) điểm. Trong khi đó điểm thi tốt nghiệp vẫn giữ mức đỉnh 4.0. Ngoài ra, số lượng thí sinh miễn thi môn tiếng Anh tương đối cao (Năm 2021: 28,620, Năm 2022: 35,391)[^7]. Do đó, đề thi môn tiếng Anh không đủ chuẩn để dùng cho xét tuyển mà chỉ đơn thuần là bài thi xét tốt nghiệp, mặc dù chỉ tiêu dùng bài thi tốt nghiệp THPT Quốc Gia hiện nay vẫn là xu hướng chính do dễ tiếp cận với hầu hết thí sinh so với các kỳ thi riêng[^8]. 
+
+|Năm|Điểm thi tốt nghiệp|Điểm thi xét tuyển|
+|-|-|-|
+|2019|<img src="https://i.imgur.com/xVYdtEl.png" alt="..." width="500" height="250" />|<img src="https://i.imgur.com/MypkkA8.png" alt="..." width="500" height="250" />|
+|2020|<img src="https://i.imgur.com/hHbNILu.png" alt="..." width="500" height="250" />|<img src="https://i.imgur.com/57ldeZ9.png" alt="..." width="500" height="250" />|
+|2021|<img src="https://i.imgur.com/sKGPkB5.png" alt="..." width="500" height="250" />|<img src="https://i.imgur.com/JzxwDTO.png" alt="..." width="500" height="250" />|
+|2022|<img src="https://i.imgur.com/Fu3taC4.png" alt="..." width="500" height="250" />|<img src="https://i.imgur.com/iwg9Ezm.png" alt="..." width="500" height="250" />|
 
 [^1]: Ngoc Ha (2018, Jun, 24). Hơn 925.000 thí sinh dự kỳ thi THPT quốc gia 2018. Báo Tuổi Trẻ. [https://tuoitre.vn/hon-925-000-thi-sinh-du-ky-thi-thpt-quoc-gia-2018-20180623192739292.htm](https://tuoitre.vn/hon-925-000-thi-sinh-du-ky-thi-thpt-quoc-gia-2018-20180623192739292.htm)
 [^2]: Minh Giang (2018, Apr, 27). Hơn 2,7 triệu nguyện vọng xét tuyển đại học 2018. Báo Tuổi Trẻ. [https://tuoitre.vn/hon-2-7-trieu-nguyen-vong-xet-tuyen-dai-hoc-2018-2018042711360019.htm](https://tuoitre.vn/hon-2-7-trieu-nguyen-vong-xet-tuyen-dai-hoc-2018-2018042711360019.htm)
 [^3]: Tran D. P., Vu C. T., (2023). Tiêu chuẩn định lượng cho một bảng điểm kết thúc học phần đẹp. Tạp Chí Nghiên Cứu Khoa Học & Phát Triển. Tập. 2 Số. 1, 35-40. [https://vjol.info.vn/index.php/jsrd/article/view/78451](https://vjol.info.vn/index.php/jsrd/article/view/78451).
 [^4]:Quynh Nga (2018, Jul 12). Tỷ lệ học sinh tốt nghiệp THPT năm 2018 đạt 97.57%, Báo Tổ Quốc. [https://toquoc.vn/ty-le-hoc-sinh-tot-nghiep-thpt-nam-2018-dat-9757-99240152.htm](https://toquoc.vn/ty-le-hoc-sinh-tot-nghiep-thpt-nam-2018-dat-9757-99240152.htm)
 [^5]: Gian Lận Thi Cử. Báo Thanh Niên. [https://thanhnien.vn/trend-2018-gian-lan-thi-cu-185815811.htm](https://thanhnien.vn/trend-2018-gian-lan-thi-cu-185815811.htm)
+[^6]:Ha Linh (2020, Apr 22). Thứ trưởng Nguyễn Hữu Độ lí giải vì sao 'đổi tên' kỳ thi THPT năm nay. Báo Tiên Phong. [https://tienphong.vn/thu-truong-nguyen-huu-do-li-giai-vi-sao-doi-ten-ky-thi-thpt-nam-nay-post1234069.tpo](https://tienphong.vn/thu-truong-nguyen-huu-do-li-giai-vi-sao-doi-ten-ky-thi-thpt-nam-nay-post1234069.tpo)
+[^7]:Ba Duy (2023, Dec 28). Thí sinh được miễn thi tốt nghiệp do có chứng chỉ ngoại ngữ quốc tế tăng vọt. Vov2.[https://vov2.vov.vn/giao-duc-dao-tao/thi-sinh-duoc-mien-thi-tot-nghiep-do-co-chung-chi-ngoai-ngu-quoc-te-tang-vot-46560](https://vov2.vov.vn/giao-duc-dao-tao/thi-sinh-duoc-mien-thi-tot-nghiep-do-co-chung-chi-ngoai-ngu-quoc-te-tang-vot-46560)
+[^8]: Pham Mai (2024, Jun 29). Bộ GD-ĐT sẽ đề nghị trường đại học tăng chỉ tiêu xét tuyển theo điểm thi THPT. Báo điện tử VietnamPlus. [https://www.vietnamplus.vn/bo-gd-dt-se-de-nghi-truong-dai-hoc-tang-chi-tieu-xet-tuyen-theo-diem-thi-thpt-post961965.vnp](https://www.vietnamplus.vn/bo-gd-dt-se-de-nghi-truong-dai-hoc-tang-chi-tieu-xet-tuyen-theo-diem-thi-thpt-post961965.vnp)
