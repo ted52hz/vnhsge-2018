@@ -236,5 +236,5 @@ Kết luận:
 [^1]: Ngoc Ha (2018, Jun, 24). Hơn 925.000 thí sinh dự kỳ thi THPT quốc gia 2018. Báo Tuổi Trẻ. [https://tuoitre.vn/hon-925-000-thi-sinh-du-ky-thi-thpt-quoc-gia-2018-20180623192739292.htm](https://tuoitre.vn/hon-925-000-thi-sinh-du-ky-thi-thpt-quoc-gia-2018-20180623192739292.htm)
 [^2]: Minh Giang (2018, Apr, 27). Hơn 2,7 triệu nguyện vọng xét tuyển đại học 2018. Báo Tuổi Trẻ. [https://tuoitre.vn/hon-2-7-trieu-nguyen-vong-xet-tuyen-dai-hoc-2018-2018042711360019.htm](https://tuoitre.vn/hon-2-7-trieu-nguyen-vong-xet-tuyen-dai-hoc-2018-2018042711360019.htm)
 [^3]: Tran D. P., Vu C. T., (2023). Tiêu chuẩn định lượng cho một bảng điểm kết thúc học phần đẹp. Tạp Chí Nghiên Cứu Khoa Học & Phát Triển. Tập. 2 Số. 1, 35-40. [https://vjol.info.vn/index.php/jsrd/article/view/78451](https://vjol.info.vn/index.php/jsrd/article/view/78451).
-[^4]:
-[^5]:
+[^4]:Quynh Nga (2018, Jul 12). Tỷ lệ học sinh tốt nghiệp THPT năm 2018 đạt 97.57%, Báo Tổ Quốc. [https://toquoc.vn/ty-le-hoc-sinh-tot-nghiep-thpt-nam-2018-dat-9757-99240152.htm](https://toquoc.vn/ty-le-hoc-sinh-tot-nghiep-thpt-nam-2018-dat-9757-99240152.htm)
+[^5]: Gian Lận Thi Cử. Báo Thanh Niên. [https://thanhnien.vn/trend-2018-gian-lan-thi-cu-185815811.htm](https://thanhnien.vn/trend-2018-gian-lan-thi-cu-185815811.htm)
