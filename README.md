@@ -251,4 +251,3 @@ Kết luận:
 [^7]:Ba Duy (2023, Dec 28). Thí sinh được miễn thi tốt nghiệp do có chứng chỉ ngoại ngữ quốc tế tăng vọt. Vov2.[https://vov2.vov.vn/giao-duc-dao-tao/thi-sinh-duoc-mien-thi-tot-nghiep-do-co-chung-chi-ngoai-ngu-quoc-te-tang-vot-46560](https://vov2.vov.vn/giao-duc-dao-tao/thi-sinh-duoc-mien-thi-tot-nghiep-do-co-chung-chi-ngoai-ngu-quoc-te-tang-vot-46560)
 [^8]: Pham Mai (2024, Jun 29). Bộ GD-ĐT sẽ đề nghị trường đại học tăng chỉ tiêu xét tuyển theo điểm thi THPT. Báo điện tử VietnamPlus. [https://www.vietnamplus.vn/bo-gd-dt-se-de-nghi-truong-dai-hoc-tang-chi-tieu-xet-tuyen-theo-diem-thi-thpt-post961965.vnp](https://www.vietnamplus.vn/bo-gd-dt-se-de-nghi-truong-dai-hoc-tang-chi-tieu-xet-tuyen-theo-diem-thi-thpt-post961965.vnp)
 
-### Disclaimer:
