@@ -41,9 +41,15 @@ Từ những vấn đề nêu trên, bài viết đề xuất phương pháp ph�
 
 
 ### 2. Thu thập và xử lý dữ liệu
-```
-Xem chi tiết: ...
-```
+
+- Nguồn dữ liệu:
+- Đánh giá dữ liệu:
+- Tích hợp dữ liệu:
+- Thiết kế Schema:
+
+  ![image](https://github.com/user-attachments/assets/40a22ed5-1900-4284-bf35-cb5a5082c531)
+
+- Trích xuất dữ liệu:
 
 ## III. Phân bố điểm thi lý tưởng cho kỳ thi THPT Quốc Gia
 
