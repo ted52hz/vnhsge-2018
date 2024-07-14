@@ -42,14 +42,33 @@ Từ những vấn đề nêu trên, bài viết đề xuất phương pháp ph�
 
 ### 2. Thu thập và xử lý dữ liệu
 
-- Nguồn dữ liệu:
-- Đánh giá dữ liệu:
-- Tích hợp dữ liệu:
-- Thiết kế Schema:
+- **Nguồn dữ liệu**: API Cung cấp bởi trang [VNNET](view-source:https://diemthi.vnanet.vn/)
+```html
+  </script>
+    <!-- GOOGLE SEARCH STRUCTURED DATA FOR EVENT -->
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "name": "Điểm chuẩn đại học - Điểm thi THPT quốc gia 2024 - Chỉ tiêu các trường ĐH-CĐ năm 2024",
+        "url": "https://diemthi.vnanet.vn",
+        "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://diemthi.vnanet.vn/Home/SearchBySobaodanh?code={search_term_string}&nam=2019",
+        "query-input": "required name=search_term_string"
+        }
+        }
+    </script>
+```
+- **Đánh giá dữ liệu**:
+  - X
+  - X
+- **Tích hợp dữ liệu**: Dữ liệu về khối thi, cụm thi, khu vực
+- **Thiết kế Schema**:
 
   ![image](https://github.com/user-attachments/assets/40a22ed5-1900-4284-bf35-cb5a5082c531)
 
-- Trích xuất dữ liệu:
+- **Trích xuất dữ liệu**:
 
 ## III. Phân bố điểm thi lý tưởng cho kỳ thi THPT Quốc Gia
 
