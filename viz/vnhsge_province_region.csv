@@ -1,0 +1,64 @@
+﻿province_code,province_name,er_code,region
+1,Hà Nội,1,Thành phố trực thuộc trung ương
+2,TP. Hồ Chí Minh,1,Thành phố trực thuộc trung ương
+3,Hải Phòng,1,Thành phố trực thuộc trung ương
+4,Đà Nẵng,1,Thành phố trực thuộc trung ương
+55,Cần Thơ,1,Thành phố trực thuộc trung ương
+16,Vĩnh Phúc,2,Đồng bằng sông Hồng
+17,Quảng Ninh,2,Đồng bằng sông Hồng
+19,Bắc Ninh,2,Đồng bằng sông Hồng
+21,Hải Dương,2,Đồng bằng sông Hồng
+22,Hưng Yên,2,Đồng bằng sông Hồng
+24,Hà Nam,2,Đồng bằng sông Hồng
+25,Nam Định,2,Đồng bằng sông Hồng
+26,Thái Bình,2,Đồng bằng sông Hồng
+27,Ninh Bình,2,Đồng bằng sông Hồng
+10,Lạng Sơn,3,Trung du miền núi phía Bắc
+11,Bắc Kạn,3,Trung du miền núi phía Bắc
+12,Thái Nguyên,3,Trung du miền núi phía Bắc
+13,Yên Bái,3,Trung du miền núi phía Bắc
+14,Sơn La,3,Trung du miền núi phía Bắc
+15,Phú Thọ,3,Trung du miền núi phía Bắc
+18,Bắc Giang,3,Trung du miền núi phía Bắc
+23,Hoà Bình,3,Trung du miền núi phía Bắc
+5,Hà Giang,3,Trung du miền núi phía Bắc
+6,Cao Bằng,3,Trung du miền núi phía Bắc
+62,Điện Biên,3,Trung du miền núi phía Bắc
+7,Lai Châu,3,Trung du miền núi phía Bắc
+8,Lào Cai,3,Trung du miền núi phía Bắc
+9,Tuyên Quang,3,Trung du miền núi phía Bắc
+28,Thanh Hoá,4,Đồng bằng duyên hải miền Trung
+29,Nghệ An,4,Đồng bằng duyên hải miền Trung
+30,Hà Tĩnh,4,Đồng bằng duyên hải miền Trung
+31,Quảng Bình,4,Đồng bằng duyên hải miền Trung
+32,Quảng Trị,4,Đồng bằng duyên hải miền Trung
+33,Thừa Thiên -Huế,4,Đồng bằng duyên hải miền Trung
+34,Quảng Nam,4,Đồng bằng duyên hải miền Trung
+35,Quảng Ngãi,4,Đồng bằng duyên hải miền Trung
+37,Bình Định,4,Đồng bằng duyên hải miền Trung
+39,Phú Yên,4,Đồng bằng duyên hải miền Trung
+41,Khánh Hoà,4,Đồng bằng duyên hải miền Trung
+45,Ninh Thuận,4,Đồng bằng duyên hải miền Trung
+47,Bình Thuận,4,Đồng bằng duyên hải miền Trung
+36,Kon Tum,5,Tây Nguyên
+38,Gia Lai,5,Tây Nguyên
+40,Đắk Lắk,5,Tây Nguyên
+42,Lâm Đồng,5,Tây Nguyên
+63,Đăk Nông,5,Tây Nguyên
+43,Bình Phước,6,Đông Nam Bộ
+44,Bình Dương,6,Đông Nam Bộ
+46,Tây Ninh,6,Đông Nam Bộ
+48,Đồng Nai,6,Đông Nam Bộ
+52,Bà Rịa-Vũng Tàu,6,Đông Nam Bộ
+49,Long An,7,Đồng bằng sông Cửu Long
+50,Đồng Tháp,7,Đồng bằng sông Cửu Long
+51,An Giang,7,Đồng bằng sông Cửu Long
+53,Tiền Giang,7,Đồng bằng sông Cửu Long
+54,Kiên Giang,7,Đồng bằng sông Cửu Long
+56,Bến Tre,7,Đồng bằng sông Cửu Long
+57,Vĩnh Long,7,Đồng bằng sông Cửu Long
+58,Trà Vinh,7,Đồng bằng sông Cửu Long
+59,Sóc Trăng,7,Đồng bằng sông Cửu Long
+60,Bạc Liêu,7,Đồng bằng sông Cửu Long
+61,Cà Mau,7,Đồng bằng sông Cửu Long
+64,Hậu Giang,7,Đồng bằng sông Cửu Long

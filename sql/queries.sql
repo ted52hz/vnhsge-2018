@@ -1,4 +1,4 @@
---1.[vnhsge-2018_zero.csv] Điểm trung bình của các môn có điểm = 0
+# 1.[vnhsge-2018_zero.csv] Điểm trung bình của các môn có điểm = 0
 SELECT 
     candidate_id, 
     ROUND(COALESCE(NULLIF(AVG(CASE WHEN score != 0 THEN score END), 0), 0), 2) AS avg_score,
@@ -17,7 +17,7 @@ FROM
 GROUP BY 
     candidate_id;
 
---2.[vnhsge-2018_avg.csv] Mối quan hệ giữa điểm trung bình và chênh lệch điểm của nhóm thí sinh THPT
+# 2.[vnhsge-2018_avg.csv] Mối quan hệ giữa điểm trung bình và chênh lệch điểm của nhóm thí sinh THPT
 CREATE TEMPORARY TABLE IF NOT EXISTS Grad_Student AS (
 	WITH sq AS (
 		SELECT 
@@ -56,7 +56,7 @@ LEFT JOIN
 GROUP BY 
     gs.candidate_id, avg_score;
 
---3.[vnhsge-2018_minmax.csv] Điểm khối thi cao nhất và điểm môn thi thấp nhất
+# 3.[vnhsge-2018_minmax.csv] Điểm khối thi cao nhất và điểm môn thi thấp nhất
 select cs.candidate_id, round(min(case when cs.score > 0 then cs.score end),2) as min_subject_score, round(max(cb.score),2) as max_block_score
 from candidate_subject cs
 join block_subject bs on bs.subject_id = cs.subject_id
@@ -64,8 +64,8 @@ join candidate_block cb on cs.candidate_id = cb.candidate_id and cb.block_id = b
 right join Grad_Student gs on cb.candidate_id = gs.candidate_id
 group by cs.candidate_id;
 
---4. [vnhsge-2018_score_1/2.csv] Điểm môn thi
+# 4. [vnhsge-2018_score_1/2.csv] Điểm môn thi
 select * from candidate_subject;
 
---5. [vnhsge-2018_block_score.csv] Điểm khối thi
+# 5. [vnhsge-2018_block_score.csv] Điểm khối thi
 select * from candidate_block where score_rank = 1;
