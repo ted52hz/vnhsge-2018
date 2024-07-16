@@ -60,15 +60,13 @@ Từ những vấn đề nêu trên, bài viết đề xuất phương pháp ph�
         }
     </script>
 ```
-- **Đánh giá dữ liệu**:
-  - X
-  - X
+- **Đánh giá dữ liệu điểm thi**:
+  - Có 4,285 bài thi có điểm 0 của 1,138 thí sinh. Với 8/9 môn là bài thi trắc nghiệm nên việc có nhiều điểm 0 chỉ có thể liên quan đến vi phạm quy chế thi hoặc bỏ thi. Xét dựa trên điểm trung bình (không bao gồm môn có 0 điểm) của nhóm thí sinh này, phần lớn các thí sinh có điểm trung bình là 0 (không tham dự thi), đối với môn Tiếng Anh và Ngữ Văn thì có 1 nhóm thí sinh có điểm trung bình cao hơn, điều này cho thấy các thí sinh thuộc diện miễn thi vẫn bị tính là điểm 0 trên hệ thống. Do đó, điểm 0 sẽ không được sử dụng cho quá trình phân tích (chỉ lấy kết quả có điểm thi > 0).
 - **Tích hợp dữ liệu**: Dữ liệu về khối thi, cụm thi, khu vực
+  
 - **Thiết kế Schema**:
 
   ![image](https://github.com/user-attachments/assets/40a22ed5-1900-4284-bf35-cb5a5082c531)
-
-- **Trích xuất dữ liệu**:
 
 ## III. Phân bố điểm thi lý tưởng cho kỳ thi THPT Quốc Gia
 
